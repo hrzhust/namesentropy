@@ -1,0 +1,1810 @@
+Alabama	#NPlc	A&M	#NS	University	#NU																
+University	#NU	of	#PR	Alabama	#NPlc	at	#PR	Birmingham	#NPlc												
+University	#NU	of	#PR	Alabama	#NPlc	in	#PR	Huntsville	#NPlc												
+Alabama	#NPlc	State	#NN	University	#NU																
+The	#TH	University	#NU	of	#PR	Alabama	#NPlc														
+Auburn	#NPlc	University	#NU	at	#PR	Montgomery	#NPlc														
+Auburn	#NPlc	University	#NU																		
+Birmingham	#NPlc	Southern	#JD	College	#NU																
+South	#JD	University	#NU	Montgomery	#NPlc																
+Faulkner	#NPsn	University	#NU																		
+Huntingdon	#NPsn	College	#NU																		
+Heritage	#NN	Christian	#JR	University	#NU																
+Jacksonville	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	West	#JD	Alabama	#NPlc														
+Miles	#NN	College	#NU																		
+University	#NU	of	#PR	Mobile	#NPlc																
+University	#NU	of	#PR	Montevallo	#NPlc																
+University	#NU	of	#PR	North	#JD	Alabama	#NPlc														
+Oakwood	#NPlc	University	#NU																		
+Samford	#NPsn	University	#NU																		
+University	#NU	of	#PR	South	#JD	Alabama	#NPlc														
+Spring	#NN	Hill	#NN	College	#NU																
+Stillman	#NPsn	College	#NU																		
+Talladega	#NPlc	College	#NU																		
+Troy	#NPlc	University	#NU																		
+Tuskegee	#NPlc	University	#NU																		
+United	#NC	States	#NC	Academy	#NU																
+University	#NU	of	#PR	Alaska	#NPlc	Anchorage	#NPlc														
+Alaska	#NPlc	Bible	#NR	College	#NU																
+University	#NU	of	#PR	Alaska	#NPlc	Fairbanks	#NPlc														
+University	#NU	of	#PR	Alaska	#NPlc	Southeast	#JD														
+Alaska	#NPlc	Pacific	#NPlc	University	#NU																
+Arizona	#NPlc	State	#NN	University	#NU	Campus	#NN	Immersion	#NN												
+University	#NU	of	#PR	Arizona	#NPlc																
+Embry	#NPsn	Riddle	#NPsn	Aeronautical	#JS	University	#NU	Prescott	#NPlc												
+Grand	#JJ	Canyon	#NN	University	#NU																
+Northern	#JD	Arizona	#NPlc	University	#NU																
+Prescott	#NPlc	College	#NU																		
+Arizona	#NPlc	Christian	#JR	University	#NU																
+University	#NU	of	#PR	Arkansas	#NPlc	at	#PR	Little	#NN	Rock	#NN										
+Arkansas	#NPlc	Baptist	#NR	College	#NU																
+Lyon	#NPsn	College	#NU																		
+University	#NU	of	#PR	Arkansas	#NPlc																
+University	#NU	of	#PR	Arkansas	#NPlc	at	#PR	Pine	#NN	Bluff	#NN										
+Arkansas	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Central	#JD	Arkansas	#NPlc														
+Central	#JD	Baptist	#NR	College	#NU																
+Crowley	#NPsn	's	#POS	Ridge	#NN	College	#NU														
+Harding	#NPsn	University	#NU																		
+Henderson	#NPsn	State	#NN	University	#NU																
+Hendrix	#NPsn	College	#NU																		
+John	#NPsn	Brown	#NPsn	University	#NU																
+Ouachita	#NPlc	Baptist	#NR	University	#NU																
+University	#NU	of	#PR	the	#TH	Ozarks	#NPlc														
+Philander	#NPsn	Smith	#NPsn	University	#NU																
+Williams	#NPsn	Baptist	#NR	University	#NU																
+Southern	#JD	Arkansas	#NPlc	State	#NN	University	#NU	Main	#NN	Campus	#NN										
+Academy	#NU	of	#PR	Art	#NS	University	#NU														
+Art	#NN	Center	#NN	College	#NU	of	#PR	Design	#NN												
+Azusa	#NPlc	Pacific	#NPlc	University	#NU																
+Bethesda	#NPlc	University	#NU																		
+Biola	#NPlc	University	#NU																		
+California	#NPlc	Baptist	#NR	University	#NU																
+California	#NPlc	College	#NU	of	#PR	the	#TH	Arts	#NS												
+California	#NPlc	Institute	#NU	of	#PR	Technology	#NS														
+California	#NPlc	Lutheran	#JR	University	#NU																
+California	#NPlc	Polytechnic	#NS	State	#NN	University	#NU	San	#NPlc	Luis	#NPlc	Obispo	#NPlc								
+Alliant	#JC	International	#JJ	University	#NU	San	#NPlc	Diego	#NPlc												
+California	#NPlc	State	#NN	University	#NU	Bakersfield	#NPlc														
+California	#NPlc	State	#NN	University	#NU	Stanislaus	#NPlc														
+California	#NPlc	State	#NN	University	#NU	San	#NPlc	Bernardino	#NPlc												
+California	#NPlc	State	#NN	Polytechnic	#NS	University	#NU	Pomona	#NPlc												
+California	#NPlc	State	#NN	University	#NU	Chico	#NPlc														
+California	#NPlc	State	#NN	University	#NU	Dominguez	#NPlc	Hills	#NN												
+California	#NPlc	State	#NN	University	#NU	Fresno	#NPlc														
+California	#NPlc	State	#NN	University	#NU	Fullerton	#NPlc														
+California	#NPlc	State	#NN	University	#NU	East	#JD	Bay	#NN												
+California	#NPlc	State	#NN	University	#NU	Long	#NN	Beach	#NN												
+California	#NPlc	State	#NN	University	#NU	Los	#NPlc	Angeles	#NPlc												
+California	#NPlc	State	#NN	University	#NU	Northridge	#NPlc														
+California	#NPlc	State	#NN	University	#NU	Sacramento	#NPlc														
+University	#NU	of	#PR	California	#NPlc	Berkeley	#NPlc														
+University	#NU	of	#PR	California	#NPlc	Davis	#NPlc														
+University	#NU	of	#PR	California	#NPlc	Irvine	#NPlc														
+University	#NU	of	#PR	California	#NPlc	Los	#NPlc	Angeles	#NPlc												
+University	#NU	of	#PR	California	#NPlc	Riverside	#NPlc														
+University	#NU	of	#PR	California	#NPlc	San	#NPlc	Diego	#NPlc												
+University	#NU	of	#PR	California	#NPlc	Santa	#NPlc	Barbara	#NPlc												
+University	#NU	of	#PR	California	#NPlc	Santa	#NPlc	Cruz	#NPlc												
+Haven	#NN	University	#NU																		
+California	#NPlc	Institute	#NU	of	#PR	the	#TH	Arts	#NS												
+California	#NPlc	State	#NN	University	#NU	Maritime	#JS	Academy	#NU												
+Chapman	#NPsn	University	#NU																		
+Charles	#NPsn	R	#NPsn	Drew	#NPsn	University	#NU	of	#PR	Medicine	#NS	and	#CJ	Science	#NS						
+Concordia	#NPlc	University	#NU	Irvine	#NPlc																
+San	#NPlc	Diego	#NPlc	Christian	#JR	College	#NU														
+Claremont	#NPlc	McKenna	#NPsn	College	#NU																
+University	#NU	of	#PR	Silicon	#NS	Valley	#NN														
+California	#NPlc	College	#NU	of	#PR	ASU	#NU														
+Design	#NN	Institute	#NU	of	#PR	San	#NPlc	Diego	#NPlc												
+Dominican	#JJ	University	#NU	of	#PR	California	#NPlc														
+Fresno	#NPlc	Pacific	#NPlc	University	#NU																
+Golden	#JJ	Gate	#NN	University	#NU																
+Harvey	#NPsn	Mudd	#NPsn	College	#NU																
+California	#NPlc	State	#NN	Polytechnic	#NS	University	#NU	Humboldt	#NPlc												
+Humphreys	#NPsn	University	#NU	Stockton	#NPlc	and	#CJ	Modesto	#NPlc	Campuses	#NN										
+Life	#NN	Pacific	#JC	University	#NU																
+University	#NU	of	#PR	La	#NPlc	Verne	#NPlc														
+Laguna	#NPlc	College	#NU	of	#PR	Art	#NS	and	#CJ	Design	#NS										
+Southern	#JD	California	#NPlc	Seminary	#NR																
+La	#NPlc	Sierra	#NPlc	University	#NU																
+Southern	#JD	California	#NPlc	University	#NU	of	#PR	Health	#NS	Sciences	#NS										
+The	#TH	Master	#NN	's	#POS	University	#NU	and	#CJ	Seminary	#NR										
+Loyola	#NPsn	Marymount	#NPsn	University	#NU																
+Menlo	#NN	College	#NU																		
+Northeastern	#JD	University	#NU	Oakland	#NPlc																
+Mount	#NN	Saint	#NN	Mary	#NPsn	's	#POS	University	#NU												
+National	#JC	University	#NU																		
+Newschool	#NN	of	#PR	Architecture	#NS	and	#CJ	Design	#NN												
+Occidental	#NPlc	College	#NU																		
+Otis	#NPsn	College	#NU	of	#PR	Art	#NS	and	#CJ	Design	#NS										
+Hope	#NN	International	#JJ	University	#NU																
+Pacific	#NPlc	Oaks	#NN	College	#NU																
+Pacific	#JC	States	#NC	University	#NU																
+Pacific	#NPlc	Union	#NR	College	#NU																
+University	#NU	of	#PR	the	#TH	Pacific	#NPlc														
+Pepperdine	#NPsn	University	#NU																		
+Pitzer	#NPsn	College	#NU																		
+Point	#NN	Loma	#NPlc	Nazarene	#JR	University	#NU														
+Pomona	#NPlc	College	#NU																		
+University	#NU	of	#PR	Redlands	#NPlc																
+San	#NPlc	Diego	#NPlc	State	#NN	University	#NU														
+University	#NU	of	#PR	San	#NPlc	Diego	#NPlc														
+San	#NPlc	Francisco	#NPlc	Conservatory	#NN	of	#PR	Music	#NS												
+San	#NPlc	Francisco	#NPlc	State	#NN	University	#NU														
+University	#NU	of	#PR	San	#NPlc	Francisco	#NPlc														
+William	#NPsn	Jessup	#NPsn	University	#NU																
+San	#NPlc	Jose	#NPlc	State	#NN	University	#NU														
+Santa	#NPlc	Clara	#NPlc	University	#NU																
+Scripps	#NPsn	College	#NU																		
+Shasta	#NPlc	Bible	#NR	College	#NU	and	#CJ	Graduate	#NN	School	#NN										
+Simpson	#NPsn	University	#NU																		
+Saint	#NN	Mary's	#NPsn	College	#NU	of	#PR	California	#NPlc												
+Sonoma	#NPlc	State	#NN	University	#NU																
+Vanguard	#NN	University	#NU	of	#PR	Southern	#JD	California	#NPlc												
+Southern	#JD	California	#NPlc	Institute	#NU	of	#PR	Architecture	#NS												
+University	#NU	of	#PR	Southern	#JD	California	#NPlc														
+Thomas	#NPsn	Aquinas	#NPsn	College	#NU																
+Epic	#NN	Bible	#NR	College	#NU	&	#CJ	Graduate	#NN	School	#NN										
+Westmont	#NPlc	College	#NU																		
+Whittier	#NPlc	College	#NU																		
+Woodbury	#NPsn	University	#NU																		
+Yeshiva	#NR	Ohr	#NR	Elchonon	#NR	Chabad	#NR	West	#JD	Coast	#NN	Talmudical	#JR	Seminary	#NR						
+Adams	#NPsn	State	#NN	University	#NU																
+University	#NU	of	#PR	Colorado	#NPlc	Denver	#NPlc	/	#PR	Anschutz	#NPlc	Medical	#JS	Campus	#NN						
+University	#NU	of	#PR	Colorado	#NPlc	Colorado	#NPlc	Springs	#NN												
+University	#NU	of	#PR	Colorado	#NPlc	Boulder	#NPlc														
+Colorado	#NPlc	Christian	#JR	University	#NU																
+Colorado	#NPlc	College	#NU																		
+Colorado	#NPlc	School	#NU	of	#PR	Mines	#NPlc														
+Colorado	#NPlc	State	#NN	University	#NU	Fort	#NN	Collins	#NPlc												
+Colorado	#NPlc	Technical	#JS	University	#NU	Colorado	#NPlc	Springs	#NN												
+University	#NU	of	#PR	Denver	#NPlc																
+Fort	#NN	Lewis	#NPsn	College	#NU																
+Colorado	#NPlc	Mesa	#NN	University	#NU																
+Metropolitan	#JJ	State	#NN	University	#NU	of	#PR	Denver	#NPlc												
+Naropa	#NPsn	University	#NU																		
+University	#NU	of	#PR	Northern	#JD	Colorado	#NPlc														
+Regis	#NPsn	University	#NU																		
+Rocky	#JJ	Mountain	#NN	College	#NU	of	#PR	Art	#NN	and	#CJ	Design	#NN								
+Colorado	#NPlc	State	#NN	University	#NU	Pueblo	#NPlc														
+United	#NC	States	#NC	Air	#JS	Force	#JS	Academy	#NU												
+Western	#JD	Colorado	#NPlc	University	#NU																
+Albertus	#NPsn	Magnus	#NPsn	College	#NU																
+University	#NU	of	#PR	Bridgeport	#NPlc																
+Central	#JD	Connecticut	#NPlc	State	#NN	University	#NU														
+Connecticut	#NPlc	College	#NU																		
+University	#NU	of	#PR	Connecticut	#NPlc																
+Eastern	#JD	Connecticut	#NPlc	State	#NN	University	#NU														
+Fairfield	#NPlc	University	#NU																		
+University	#NU	of	#PR	Hartford	#NPlc																
+Holy	#JJ	Apostles	#NN	College	#NU	and	#CJ	Seminary	#NU												
+Mitchell	#NPsn	College	#NU																		
+University	#NU	of	#PR	New	#JD	Haven	#NPlc														
+Paier	#NPsn	College	#NU																		
+Post	#NPsn	University	#NU																		
+Quinnipiac	#NN	University	#NU																		
+Sacred	#JJ	Heart	#NN	University	#NU																
+University	#NU	of	#PR	Saint	#NN	Joseph	#NPsn														
+Southern	#JD	Connecticut	#NPlc	State	#NN	University	#NU														
+Trinity	#NR	College	#NU																		
+United	#NC	States	#NC	Coast	#NN	Guard	#NN	Academy	#NU												
+Wesleyan	#JR	University	#NU																		
+Western	#JD	Connecticut	#NPlc	State	#NN	University	#NU														
+Yale	#NPsn	University	#NU																		
+Delaware	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Delaware	#NPlc																
+Goldey	#NPsn	Beacom	#NPsn	College	#NU																
+Wilmington	#NPlc	University	#NU																		
+American	#JC	University	#NU																		
+The	#TH	Catholic	#JR	University	#NU	of	#PR	America	#NC												
+University	#NU	of	#PR	the	#TH	District	#NN	of	#PR	Columbia	#NPlc										
+Gallaudet	#NPsn	University	#NU																		
+George	#NPsn	Washington	#NPsn	University	#NU																
+Georgetown	#NPlc	University	#NU																		
+Howard	#NPsn	University	#NU																		
+Strayer	#NPsn	University	#NU	District	#NN	of	#PR	Columbia	#NPlc												
+Trinity	#NR	Washington	#NPlc	University	#NU																
+Baptist	#NR	University	#NU	of	#PR	Florida	#NPlc														
+Barry	#NPsn	University	#NU																		
+Bethune	#NPsn	Cookman	#NPsn	University	#NU																
+Lynn	#NPsn	University	#NU																		
+Albizu	#NPsn	University	#NU	Miami	#NPlc																
+Johnson	#NPsn	University	#NU	Florida	#NPlc																
+University	#NU	of	#PR	Central	#JD	Florida	#NPlc														
+South	#JD	University	#NU	West	#JD	Palm	#NN	Beach	#NN												
+Eckerd	#NPsn	College	#NU																		
+Edward	#NPsn	Waters	#NPsn	University	#NU																
+Embry	#NPsn	Riddle	#NPsn	Aeronautical	#JS	University	#NU	Daytona	#NPlc	Beach	#NN										
+Florida	#NPlc	Agricultural	#JS	and	#CJ	Mechanical	#JS	University	#NU												
+Florida	#NPlc	Atlantic	#NPlc	University	#NU																
+Flagler	#NPsn	College	#NU																		
+AdventHealth	#NS	University	#NU																		
+Florida	#NPlc	Institute	#NU	of	#PR	Technology	#NS														
+Florida	#NPlc	International	#JJ	University	#NU																
+Florida	#NPlc	Memorial	#JJ	University	#NU																
+Florida	#NPlc	Southern	#JD	College	#NU																
+Florida	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Florida	#NPlc																
+Full	#NN	Sail	#NN	University	#NU																
+Hobe	#NPlc	Sound	#NN	Bible	#NR	College	#NU														
+Jacksonville	#NPlc	University	#NU																		
+Luther	#NPsn	Rice	#NPsn	College	#NU	&	#CJ	Seminary	#NR												
+Trinity	#NR	International	#JJ	University	#NU	Florida	#NPlc														
+University	#NU	of	#PR	Miami	#NPlc																
+University	#NU	of	#PR	North	#JD	Florida	#NPlc														
+Nova	#NN	Southeastern	#JD	University	#NU																
+Palm	#NN	Beach	#NN	Atlantic	#JS	University	#NU														
+Ringling	#NPsn	College	#NU	of	#PR	Art	#NS	and	#CJ	Design	#NS										
+Rollins	#NPsn	College	#NU																		
+Saint	#NN	Leo	#NPsn	University	#NU																
+St.	#NN	John	#NPsn	Vianney	#NPsn	College	#NU	Seminary	#NR												
+University	#NU	of	#PR	South	#JD	Florida	#NPlc														
+St.	#NN	Thomas	#NPsn	University	#NU																
+Stetson	#NPsn	University	#NU																		
+Southeastern	#JD	University	#NU																		
+Talmudic	#JR	College	#NU	of	#PR	Florida	#NPlc														
+The	#TH	University	#NU	of	#PR	Tampa	#NPlc														
+Trinity	#NR	Baptist	#NR	College	#NU																
+Trinity	#NR	College	#NU	of	#PR	Florida	#NPlc														
+Warner	#NPsn	University	#NU																		
+Webber	#NPsn	International	#JJ	University	#NU																
+University	#NU	of	#PR	West	#JD	Florida	#NPlc														
+Abraham	#NPsn	Baldwin	#NPsn	Agricultural	#JS	College	#NU														
+Agnes	#NPsn	Scott	#NPsn	College	#NU																
+Albany	#NPlc	State	#NN	University	#NU																
+Point	#NPlc	University	#NU																		
+Clark	#NPsn	Atlanta	#NPlc	University	#NU																
+Berry	#NPlc	College	#NU																		
+Beulah	#NN	Heights	#NN	University	#NU																
+Brenau	#NN	University	#NU																		
+Brewton	#NPlc	Parker	#NPsn	College	#NU																
+College	#NU	of	#PR	Coastal	AJ	Georgia	#NPlc														
+Clayton	#NPlc	State	#NN	University	#NU																
+Columbus	#NPlc	State	#NN	University	#NU																
+Covenant	#NR	College	#NU																		
+Dalton	#NPlc	State	#NN	College	#NU																
+South	#JD	University	#NU	Savannah	#NPlc																
+Emmanuel	#NR	University	#NU																		
+Emory	#NPsn	University	#NU																		
+Fort	#NN	Valley	#NN	State	#NN	University	#NU														
+Georgia	#NPlc	Institute	#NU	of	#PR	Technology	#NS	Main	#NN	Campus	#NN										
+Georgia	#NPlc	Southwestern	#JD	State	#NN	University	#NU														
+Georgia	#NPlc	College	#NU	&	#CJ	State	#NN	University	#NU												
+Georgia	#NPlc	Southern	#JD	University	#NU																
+Georgia	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Georgia	#NPlc																
+LaGrange	#NPlc	College	#NU																		
+Life	#NN	University	#NU																		
+Mercer	#NPsn	University	#NU																		
+Morehouse	#NPsn	College	#NU																		
+MORRIS	#NPsn	BROWN	#NPsn	COLLEGE	#NU																
+Oglethorpe	#NPsn	University	#NU																		
+Paine	#NPsn	College	#NU																		
+Piedmont	#NPlc	University	#NU																		
+Reinhardt	#NPsn	University	#NU																		
+Savannah	#NPlc	College	#NU	of	#PR	Art	#NS	and	#CJ	Design	#NS										
+Savannah	#NPlc	State	#NN	University	#NU																
+Shorter	#NPsn	University	#NU																		
+Spelman	#NPsn	College	#NU																		
+Thomas	#NPsn	University	#NU																		
+Toccoa	#NPlc	Falls	#NN	College	#NU																
+Truett	#NPsn	McConnell	#NPsn	University	#NU																
+Valdosta	#NPlc	State	#NN	University	#NU																
+Wesleyan	#JR	College	#NU																		
+University	#NU	of	#PR	West	#JD	Georgia	#NPlc														
+Young	#NPsn	Harris	#NPsn	College	#NU																
+Chaminade	#NPsn	University	#NU	of	#PR	Honolulu	#NPlc														
+University	#NU	of	#PR	Hawaii	#NPlc	at	#PR	Hilo	#NPsn												
+University	#NU	of	#PR	Hawaii	#NPlc	at	#PR	Manoa	#NPlc												
+Hawaii	#NPlc	Pacific	#NPlc	University	#NU																
+University	#NU	of	#PR	Hawaii	#NPlc	West	#JD	Oahu	#NPlc												
+Boise	#NPlc	Bible	#NR	College	#NU																
+Boise	#NPlc	State	#NN	University	#NU																
+Idaho	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Idaho	#NPlc																
+The	#TH	College	#NU	of	#PR	Idaho	#NPlc														
+Lewis	#NPsn	Clark	#NPsn	State	#NN	College	#NU														
+Northwest	#JD	Nazarene	#NPlc	University	#NU																
+Brigham	#NPsn	Young	#NPsn	University	#NU	Idaho	#NPlc														
+American	#JC	Academy	#NU	of	#PR	Art	#NN	College	#NU												
+School	#NU	of	#PR	the	#TH	Art	#NS	Institute	#NU	of	#PR	Chicago	#NPlc								
+Augustana	#NPlc	College	#NU																		
+Aurora	#NPlc	University	#NU																		
+Blackburn	#NPlc	College	#NU																		
+Bradley	#NPsn	University	#NU																		
+The	#TH	Chicago	#NPlc	School	#NN	at	#PR	Chicago	#NPlc												
+Chicago	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Chicago	#NPlc																
+Columbia	#NPlc	College	#NU	Chicago	#NPlc																
+Concordia	#NPlc	University	#NU	Chicago	#NPlc																
+DePaul	#NPsn	University	#NU																		
+East	#JD	West	#JD	University	#NU																
+Eastern	#JD	Illinois	#NPlc	University	#NU																
+Elmhurst	#NPlc	University	#NU																		
+Eureka	#NPlc	College	#NU																		
+Governors	#NN	State	#NN	University	#NU																
+Greenville	#NPlc	University	#NU																		
+Hebrew	#JR	Theological	#JR	College	#NU																
+University	#NU	of	#PR	Illinois	#NPlc	Chicago	#NPlc														
+Benedictine	#NR	University	#NU																		
+University	#NU	of	#PR	Illinois	#NPlc	Urbana	#NPlc	Champaign	#NPlc												
+Illinois	#NPlc	Wesleyan	#JR	University	#NU																
+Illinois	#NPlc	College	#NU																		
+Illinois	#NPlc	Institute	#NU	of	#PR	Technology	#NS														
+Illinois	#NPlc	State	#NN	University	#NU																
+Judson	#NPsn	University	#NU																		
+Knox	#NPlc	College	#NU																		
+Lake	#NN	Forest	#NN	College	#NU																
+Lewis	#NPsn	University	#NU																		
+Lincoln	#NPsn	Christian	#JR	University	#NU																
+Loyola	#NPsn	University	#NU	Chicago	#NPlc																
+McKendree	#NPsn	University	#NU																		
+Methodist	#NR	College	#NU																		
+Millikin	#NPsn	University	#NU																		
+Monmouth	#NPlc	College	#NU																		
+Moody	#NPsn	Bible	#NR	Institute	#NU																
+National	#JC	Louis	#NPsn	University	#NU																
+North	#JD	Central	#JD	College	#NU																
+North	#JD	Park	#NPlc	University	#NU																
+Northern	#JD	Illinois	#NPlc	University	#NU																
+Northwestern	#JD	University	#NU																		
+Northeastern	#JD	Illinois	#NPlc	University	#NU																
+Olivet	#NPlc	Nazarene	#NPlc	University	#NU																
+Quincy	#NPlc	University	#NU																		
+Rockford	#NPlc	University	#NU																		
+Roosevelt	#NPsn	University	#NU																		
+Dominican	#JJ	University	#NU																		
+University	#NU	of	#PR	St.	#NN	Francis	#NPsn														
+Saint	#NN	Xavier	#NPsn	University	#NU																
+University	#NU	of	#PR	Illinois	#NPlc	Springfield	#NPlc														
+Saint	#NPsn	Anthony	#NPsn	College	#NU	of	#PR	Nursing	#NS												
+Southern	#JD	Illinois	#NPlc	University	#NU	Carbondale	#NPlc														
+Southern	#JD	Illinois	#NPlc	University	#NU	Edwardsville	#NPlc														
+Telshe	#NR	Yeshiva	#NR	Chicago	#NPlc																
+Trinity	#NR	Christian	#JR	College	#NU																
+Trinity	#NR	International	#JJ	University	#NU	Illinois	#NPlc														
+VanderCook	#NPsn	College	#NU	of	#PR	Music	#NS														
+Western	#JD	Illinois	#NPlc	University	#NU																
+Wheaton	#NPsn	College	#NU																		
+Anderson	#NPlc	University	#NU																		
+Ball	#NPsn	State	#NN	University	#NU																
+Bethel	#NR	University	#NU																		
+Butler	#NPsn	University	#NU																		
+Calumet	#NPlc	College	#NU	of	#PR	Saint	#NN	Joseph	#NPsn												
+DePauw	#NPsn	University	#NU																		
+Earlham	#NPlc	College	#NU																		
+University	#NU	of	#PR	Evansville	#NPlc																
+Franklin	#NPsn	College	#NU																		
+Goshen	#NPlc	College	#NU																		
+Grace	#NR	College	#NU	and	#CJ	Theological	#JR	Seminary	#NR												
+Hanover	#NPlc	College	#NU																		
+Holy	#JJ	Cross	#NN	College	#NU																
+Huntington	#NPlc	University	#NU																		
+Purdue	#NPsn	University	#NU	Fort	#NN	Wayne	#NPlc														
+Indiana	#NPlc	University	#NU	Indianapolis	#NPlc																
+University	#NU	of	#PR	Indianapolis	#NPlc																
+Indiana	#NPlc	Institute	#NU	of	#PR	Technology	#NS														
+University	#NU	of	#PR	Southern	#JD	Indiana	#NPlc														
+Indiana	#NPlc	State	#NN	University	#NU																
+Indiana	#NPlc	University	#NU	Kokomo	#NPlc																
+Indiana	#NPlc	University	#NU	South	#JD	Bend	#NN														
+Indiana	#NPlc	University	#NU	Bloomington	#NPlc																
+Indiana	#NPlc	University	#NU	Northwest	#JD																
+Indiana	#NPlc	University	#NU	Southeast	#JD																
+Indiana	#NPlc	University	#NU	East	#JD																
+Manchester	#NPlc	University	#NU																		
+Marian	#NPsn	University	#NU																		
+Indiana	#NPlc	Wesleyan	#JR	University	#NU	Marion	#NPlc														
+Martin	#NPsn	University	#NU																		
+University	#NU	of	#PR	Notre	#NN	Dame	#NN														
+Oakland	#NPlc	City	#NN	University	#NU																
+Rose	#NPsn	Hulman	#NPsn	Institute	#NU	of	#PR	Technology	#NS												
+University	#NU	of	#PR	Saint	#NN	Francis	#NPsn	Fort	#NN	Wayne	#NPlc										
+Saint	#NN	Mary	#NPsn	of	#PR	the	#TH	Woods	#NN	College	#NU										
+Saint	#NN	Mary	#NPsn	's	#POS	College	#NU														
+Taylor	#NPsn	University	#NU																		
+Trine	#NN	University	#NU																		
+Valparaiso	#NPlc	University	#NU																		
+Wabash	#NPsn	College	#NU																		
+Allen	#NPsn	College	#NU																		
+Briar	#NN	Cliff	#NN	University	#NU																
+Buena	#NPlc	Vista	#NPlc	University	#NU																
+Central	#JD	College	#NU																		
+Clarke	#NPsn	University	#NU																		
+Coe	#NPsn	College	#NU																		
+Cornell	#NPsn	College	#NU																		
+Divine	#NR	Word	#NR	College	#NU																
+Dordt	#NN	University	#NU																		
+Drake	#NPsn	University	#NU																		
+University	#NU	of	#PR	Dubuque	#NPlc																
+Faith	#NN	Baptist	#NR	Bible	#NR	College	#NU	and	#CJ	Theological	#JJ	Seminary	#NU								
+Graceland	#NPlc	University	#NU	Lamoni	#NPlc																
+Grand	#JJ	View	#NN	University	#NU																
+Grinnell	#NPlc	College	#NU																		
+Iowa	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Iowa	#NPlc																
+Loras	#NPsn	College	#NU																		
+Luther	#NPsn	College	#NU																		
+Maharishi	#NPsn	International	#JJ	University	#NU																
+Mercy	#NN	College	#NU	of	#PR	Health	#NS	Sciences	#NS												
+Morningside	#NPlc	University	#NU																		
+Mount	#NN	Mercy	#NR	University	#NU																
+Ashford	#NPlc	University	#NU																		
+University	#NU	of	#PR	Northern	#JD	Iowa	#NPlc														
+Northwestern	#JD	College	#NU																		
+Saint	#NN	Ambrose	#NPsn	University	#NU																
+Simpson	#NPsn	College	#NU																		
+Upper	#JD	Iowa	#NPlc	University	#NU																
+Waldorf	#NN	University	#NU																		
+Wartburg	#NPlc	College	#NU																		
+William	#NPsn	Penn	#NPlc	University	#NU																
+Baker	#NPsn	University	#NU																		
+Benedictine	#NR	College	#NU																		
+Bethany	#NR	College	#NU																		
+Bethel	#NR	College	#NU	North	#JD	Newton	#NPsn														
+Central	#JD	Christian	#JR	College	#NU	of	#PR	Kansas	#NPlc												
+Emporia	#NPlc	State	#NN	University	#NU																
+Fort	#NN	Hays	#NPlc	State	#NN	University	#NU														
+Barclay	#NPsn	College	#NU																		
+Friends	#NN	University	#NU																		
+Kansas	#NPlc	Christian	#JR	College	#NU																
+University	#NU	of	#PR	Kansas	#NPlc																
+Newman	#NPsn	University	#NU																		
+Kansas	#NPlc	State	#NN	University	#NU																
+Kansas	#NPlc	Wesleyan	#JR	University	#NU																
+Manhattan	#NPlc	Christian	#JR	College	#NU																
+McPherson	#NPsn	College	#NU																		
+MidAmerica	#NPlc	Nazarene	#JR	University	#NU																
+Ottawa	#NPlc	University	#NU	Ottawa	#NPlc																
+Pittsburg	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Saint	#NN	Mary	#NPsn														
+Southwestern	#JD	College	#NU																		
+Sterling	#NPsn	College	#NU																		
+Tabor	#NN	College	#NU																		
+Washburn	#NPsn	University	#NU																		
+Wichita	#NPlc	State	#NN	University	#NU																
+Alice	#NPsn	Lloyd	#NPsn	College	#NU																
+Asbury	#NPsn	University	#NU																		
+Bellarmine	#NPsn	University	#NU																		
+Berea	#NPlc	College	#NU																		
+Brescia	#NPlc	University	#NU																		
+Campbellsville	#NPlc	University	#NU																		
+Centre	#NN	College	#NU																		
+Clear	#NN	Creek	#NN	Baptist	#NR	Bible	#NR	College	#NU												
+Galen	#NPsn	College	#NU	of	#PR	Nursing	#NS	Louisville	#NPlc												
+University	#NU	of	#PR	the	#TH	Cumberlands	#NPlc														
+Eastern	#JD	Kentucky	#NPlc	University	#NU																
+Georgetown	#NPlc	College	#NU																		
+Kentucky	#NPlc	Mountain	#NN	Bible	#NR	College	#NU														
+Kentucky	#NPlc	State	#NN	University	#NU																
+Kentucky	#NPlc	Wesleyan	#JR	College	#NU																
+University	#NU	of	#PR	Kentucky	#NPlc																
+Kentucky	#NPlc	Christian	#JR	University	#NU																
+Lindsey	#NPsn	Wilson	#NPsn	College	#NU																
+University	#NU	of	#PR	Louisville	#NPlc																
+Midway	#NPlc	University	#NU																		
+Morehead	#NPlc	State	#NN	University	#NU																
+Murray	#NPlc	State	#NN	University	#NU																
+Northern	#JD	Kentucky	#NPlc	University	#NU																
+University	#NU	of	#PR	Pikeville	#NPlc																
+Spalding	#NPsn	University	#NU																		
+Thomas	#NPsn	More	#NPsn	University	#NU																
+Transylvania	#NPlc	University	#NU																		
+Union	#NR	College	#NU																		
+Western	#JD	Kentucky	#NPlc	University	#NU																
+Centenary	#NN	College	#NU	of	#PR	Louisiana	#NPlc														
+Dillard	#NPsn	University	#NU																		
+Grambling	#NPlc	State	#NN	University	#NU																
+Louisiana	#NPlc	State	#NN	University	#NU	Alexandria	#NPlc														
+Louisiana	#NPlc	State	#NN	University	#NU	and	#PR	Agricultural	#JS	&	#CJ	Mechanical	#JS	College	#NU						
+Louisiana	#NPlc	State	#NN	University	#NU	Shreveport	#NPlc														
+Louisiana	#NPlc	Christian	#JR	University	#NU																
+Louisiana	#NPlc	Tech	#NS	University	#NU																
+Loyola	#NPsn	University	#NU	New	#NN	Orleans	#NPlc														
+McNeese	#NPsn	State	#NN	University	#NU																
+University	#NU	of	#PR	New	#NN	Orleans	#NPlc														
+Nicholls	#NS	State	#NN	University	#NU																
+University	#NU	of	#PR	Louisiana	#NPlc	at	#PR	Monroe	#NPlc												
+Northwestern	#JD	State	#NN	University	#NU	of	#PR	Louisiana	#NPlc												
+University	#NU	of	#PR	Holy	#JJ	Cross	#NN														
+Franciscan	#NN	Missionaries	#NN	of	#PR	Our	#JJ	Lady	#NN	University	#NU										
+Saint	#NR	Joseph	#NPsn	Seminary	#NR	College	#NU														
+Southeastern	#JD	Louisiana	#NPlc	University	#NU																
+Southern	#JD	University	#NU	and	#PR	A	#NN	&	#CJ	M	#NN	College	#NU								
+Southern	#JD	University	#NU	at	#PR	New	#NN	Orleans	#NPlc												
+University	#NU	of	#PR	Louisiana	#NPlc	at	#PR	Lafayette	#NPlc												
+Tulane	#NPsn	University	#NU	of	#PR	Louisiana	#NPlc														
+Xavier	#NPsn	University	#NU	of	#PR	Louisiana	#NPlc														
+College	#NU	of	#PR	the	#TH	Atlantic	#NPlc														
+Bates	#NPsn	College	#NU																		
+Bowdoin	#NPsn	College	#NU																		
+Colby	#NPlc	College	#NU																		
+University	#NU	of	#PR	Maine	#NPlc	at	#PR	Augusta	#NPlc												
+University	#NU	of	#PR	Maine	#NPlc	at	#PR	Farmington	#NPlc												
+University	#NU	of	#PR	Maine	#NPlc	at	#PR	Fort	#NPlc	Kent	#NPlc										
+University	#NU	of	#PR	Maine	#NPlc																
+Maine	#NPlc	Maritime	#NS	Academy	#NU																
+University	#NU	of	#PR	Maine	#NPlc	at	#PR	Presque	#NN	Isle	#NPlc										
+University	#NU	of	#PR	New	#NN	England	#NPlc														
+Maine	#NPlc	College	#NU	of	#PR	Art	#NN	&	#CJ	Design	#NN										
+Saint	#NR	Joseph	#NPsn	's	#PR	College	#NU	of	#PR	Maine	#NPlc										
+University	#NU	of	#PR	Southern	#JD	Maine	#NPlc														
+Thomas	#NPsn	College	#NU																		
+Unity	#NN	Environmental	#JS	University	#NU																
+University	#NU	of	#PR	Baltimore	#NPlc																
+Bowie	#NPlc	State	#NN	University	#NU																
+Capitol	#NPlc	Technology	#NS	University	#NU																
+Washington	#NPlc	Adventist	#NN	University	#NU																
+Coppin	#NPsn	State	#NN	University	#NU																
+Frostburg	#NPlc	State	#NN	University	#NU																
+Goucher	#NPsn	College	#NU																		
+Hood	#NPsn	College	#NU																		
+Johns	#NPsn	Hopkins	#NPsn	University	#NU																
+Loyola	#NPsn	University	#NU	Maryland	#NPlc																
+University	#NU	of	#PR	Maryland	#NPlc	Global	#JJ	Campus	#NN												
+University	#NU	of	#PR	Maryland	#NPlc	Baltimore	#NPlc	County	#NN												
+University	#NU	of	#PR	Maryland	#NPlc	College	#NU	Park	#NN												
+Maryland	#NPlc	Institute	#NU	College	#NU	of	#PR	Art	#NS												
+University	#NU	of	#PR	Maryland	#NPlc	Eastern	#JD	Shore	#NN												
+Morgan	#NPsn	State	#NN	University	#NU																
+Mount	#NN	St.	#NR	Mary	#NPsn	's	#PR	University	#NU												
+Ner	#NN	Israel	#NPlc	Rabbinical	#JR	College	#NU														
+Notre	#NR	Dame	#NR	of	#PR	Maryland	#NPlc	University	#NU												
+Salisbury	#NPlc	University	#NU																		
+St.	#NR	Mary	#NPsn	's	#PR	College	#NU	of	#PR	Maryland	#NPlc										
+St.	#NR	John	#NPsn	's	#PR	College	#NU														
+Towson	#NPlc	University	#NU																		
+United	#NN	States	#NPlc	Naval	#JS	Academy	#NU														
+Stevenson	#NPlc	University	#NU																		
+Washington	#NPlc	College	#NU																		
+McDaniel	#NPsn	College	#NU																		
+Hult	#NPsn	International	#JJ	Business	#NS	School	#NU														
+American	#JC	International	#JJ	College	#NU																
+Amherst	#NPlc	College	#NU																		
+Anna	#NPsn	Maria	#NPsn	College	#NU																
+Assumption	#NR	University	#NU																		
+Babson	#NPlc	College	#NU																		
+Boston	#NPlc	Baptist	#JR	College	#NU																
+Bay	#NN	Path	#NN	University	#NU																
+Bentley	#NPsn	University	#NU																		
+Berklee	#NPlc	College	#NU	of	#PR	Music	#NS														
+Boston	#NPlc	Architectural	#JS	College	#NU																
+Boston	#NPlc	College	#NU																		
+Boston	#NPlc	University	#NU																		
+Brandeis	#NPsn	University	#NU																		
+Bridgewater	#NPlc	State	#NN	University	#NU																
+Cambridge	#NPlc	College	#NU																		
+Clark	#NPsn	University	#NU																		
+Curry	#NPsn	College	#NU																		
+Dean	#NPsn	College	#NU																		
+Eastern	#JD	Nazarene	#NPlc	College	#NU																
+Emerson	#NPsn	College	#NU																		
+Emmanuel	#NR	College	#NU																		
+Endicott	#NPsn	College	#NU																		
+Fisher	#NPsn	College	#NU																		
+Fitchburg	#NPlc	State	#NN	University	#NU																
+Framingham	#NPlc	State	#NN	University	#NU																
+Gordon	#NPsn	College	#NU																		
+Hampshire	#NPlc	College	#NU																		
+Harvard	#NPsn	University	#NU																		
+Hellenic	#JC	College	#NU	Holy	#JR	Cross	#NR	Greek	#JC	Orthodox	#JR	School	#NU	of	#PR	Theology	#NR				
+College	#NU	of	#PR	the	#TH	Holy	#JR	Cross	#NR												
+Lasell	#NPsn	University	#NU																		
+Lesley	#NPsn	University	#NU																		
+University	#NU	of	#PR	Massachusetts	#NPlc	Lowell	#NPlc														
+University	#NU	of	#PR	Massachusetts	#NPlc	Amherst	#NPlc														
+University	#NU	of	#PR	Massachusetts	#NPlc	Boston	#NPlc														
+MCPHS	#NN	University	#NU																		
+Massachusetts	#NPlc	College	#NU	of	#PR	Art	#NN	&	#CJ	Design	#NN										
+Massachusetts	#NPlc	Institute	#NU	of	#PR	Technology	#NS														
+Massachusetts	#NPlc	Maritime	#JS	Academy	#NU																
+Merrimack	#NPlc	College	#NU																		
+Montserrat	#NPlc	College	#NU	of	#PR	Art	#NS														
+Mount	#NN	Holyoke	#NPsn	College	#NU																
+The	#TH	New	#NN	England	#NPlc	Conservatory	#NU	of	#PR	Music	#NN										
+Nichols	#NPsn	College	#NU																		
+Massachusetts	#NPlc	College	#NU	of	#PR	Liberal	#JS	Arts	#NS												
+Northeastern	#JD	University	#NU																		
+College	#NU	of	#PR	Our	#JJ	Lady	#NN	of	#PR	the	#TH	Elms	#NN								
+Regis	#NPsn	College	#NU																		
+Salem	#NPlc	State	#NN	University	#NU																
+Simmons	#NPsn	University	#NU																		
+Smith	#NPsn	College	#NU																		
+Springfield	#NPlc	College	#NU																		
+University	#NU	of	#PR	Massachusetts	#NPlc	Dartmouth	#NPlc														
+Stonehill	#NPlc	College	#NU																		
+Suffolk	#NPlc	University	#NU																		
+Tufts	#NPsn	University	#NU																		
+Wellesley	#NPlc	College	#NU																		
+Wentworth	#NPsn	Institute	#NU	of	#PR	Technology	#NS														
+Western	#JD	New	#NN	England	#NPlc	University	#NU														
+Westfield	#NPlc	State	#NN	University	#NU																
+Wheaton	#NPsn	College	#NU	(	Massachusetts	#NPlc	)														
+Williams	#NPsn	College	#NU																		
+Worcester	#NPlc	Polytechnic	#NS	Institute	#NU																
+Worcester	#NPlc	State	#NN	University	#NU																
+Adrian	#NPlc	College	#NU																		
+Albion	#NPlc	College	#NU																		
+Alma	#NPlc	College	#NU																		
+Andrews	#NPsn	University	#NU																		
+Aquinas	#NPsn	College	#NU																		
+Baker	#NPsn	College	#NU																		
+Calvin	#NPsn	University	#NU																		
+Central	#JD	Michigan	#NPlc	University	#NU																
+Cleary	#NPsn	University	#NU																		
+Concordia	#NPsn	University	#NU	Ann	#NPsn	Arbor	#NPlc														
+College	#NU	for	#PR	Creative	#JS	Studies	#NS														
+Davenport	#NPsn	University	#NU																		
+University	#NU	of	#PR	Detroit	#NPlc	Mercy	#NR														
+Eastern	#JD	Michigan	#NPlc	University	#NU																
+Ferris	#NPsn	State	#NN	University	#NU																
+Kettering	#NPsn	University	#NU																		
+Grace	#NPsn	Christian	#JR	University	#NU																
+Cornerstone	#NN	University	#NU																		
+Grand	#JJ	Valley	#NN	State	#NN	University	#NU														
+Great	#JJ	Lakes	#NN	Christian	#JR	College	#NU														
+Hope	#NN	College	#NU																		
+Kalamazoo	#NPlc	College	#NU																		
+Lake	#NN	Superior	#JS	State	#NN	University	#NU														
+Lawrence	#NPsn	Technological	#JS	University	#NU																
+Madonna	#NPsn	University	#NU																		
+Rochester	#NPlc	University	#NU																		
+University	#NU	of	#PR	Michigan	#NPlc	Ann	#NPsn	Arbor	#NPlc												
+Michigan	#NPlc	State	#NN	University	#NU																
+Michigan	#NPlc	Technological	#JS	University	#NU																
+University	#NU	of	#PR	Michigan	#NPlc	Dearborn	#NPlc														
+University	#NU	of	#PR	Michigan	#NPlc	Flint	#NPlc														
+Northern	#JD	Michigan	#NPlc	University	#NU																
+Northwood	#NPlc	University	#NU																		
+Oakland	#NPlc	University	#NU																		
+The	#TH	University	#NU	of	#PR	Olivet	#NPsn														
+Kuyper	#NPsn	College	#NU																		
+Sacred	#JR	Heart	#NR	Major	#JS	Seminary	#NR														
+Saginaw	#NPlc	Valley	#NN	State	#NN	University	#NU														
+Siena	#NPlc	Heights	#NN	University	#NU																
+Spring	#NN	Arbor	#NPlc	University	#NU																
+Wayne	#NPlc	State	#NN	University	#NU																
+Western	#JD	Michigan	#NPlc	University	#NU																
+Academy	#NU	College	#NU																		
+Augsburg	#NPlc	University	#NU																		
+Bemidji	#NPlc	State	#NN	University	#NU																
+Bethany	#NR	Lutheran	#JR	College	#NU																
+Bethel	#NR	University	#NU																		
+Carleton	#NPsn	College	#NU																		
+Concordia	#NPsn	College	#NU	at	#PR	Moorhead	#NPlc														
+Concordia	#NPsn	University	#NU	Saint	#NR	Paul	#NPsn														
+Martin	#NPsn	Luther	#NPsn	College	#NU																
+Gustavus	#NPsn	Adolphus	#NPsn	College	#NU																
+Hamline	#NPsn	University	#NU																		
+Macalester	#NPsn	College	#NU																		
+Minnesota	#NPlc	State	#NN	University	#NU	Mankato	#NPlc														
+Metropolitan	#JJ	State	#NN	University	#NU																
+University	#NU	of	#PR	Minnesota	#NPlc	Twin	#NN	Cities	#NN												
+University	#NU	of	#PR	Minnesota	#NPlc	Crookston	#NPlc														
+Minneapolis	#NPlc	College	#NU	of	#PR	Art	#NN	&	#CJ	Design	#NN										
+Herzing	#NPsn	University	#NU	Minneapolis	#NPlc																
+University	#NU	of	#PR	Minnesota	#NPlc	Duluth	#NPlc														
+University	#NU	of	#PR	Minnesota	#NPlc	Morris	#NPsn														
+Minnesota	#NPlc	State	#NN	University	#NU	Moorhead	#NPlc														
+North	#JD	Central	#JD	University	#NU																
+University	#NU	of	#PR	Northwestern	#JD	St	#NN	Paul	#NPsn												
+Northwestern	#JD	Health	#NS	Sciences	#NS	University	#NU														
+College	#NU	of	#PR	Saint	#NR	Benedict	#NPsn														
+Saint	#NR	Cloud	#NPlc	State	#NN	University	#NU														
+Saint	#NR	Johns	#NPsn	University	#NU																
+Saint	#NR	Mary	#NPsn	's	#PR	University	#NU	of	#PR	Minnesota	#NPlc										
+St	#NN	Olaf	#NPsn	College	#NU																
+Crown	#NN	College	#NU																		
+The	#TH	College	#NU	of	#PR	Saint	#NR	Scholastica	#NPsn												
+University	#NU	of	#PR	St	#NN	Thomas	#NPsn														
+St	#NN	Catherine	#NPsn	University	#NU																
+Southwest	#JD	Minnesota	#NPlc	State	#NN	University	#NU														
+Winona	#NPlc	State	#NN	University	#NU																
+Alcorn	#NPsn	State	#NN	University	#NU																
+Belhaven	#NPlc	University	#NU																		
+Blue	#JJ	Mountain	#NN	Christian	#JR	University	#NU														
+Delta	#NN	State	#NN	University	#NU																
+Jackson	#NPlc	State	#NN	University	#NU																
+Millsaps	#NPsn	College	#NU																		
+University	#NU	of	#PR	Mississippi	#NPlc																
+Mississippi	#NPlc	University	#NU	for	#PR	Women	#NN														
+Mississippi	#NPlc	Valley	#NN	State	#NN	University	#NU														
+Mississippi	#NPlc	College	#NU																		
+Mississippi	#NPlc	State	#NN	University	#NU																
+Rust	#NPsn	College	#NU																		
+University	#NU	of	#PR	Southern	#JD	Mississippi	#NPlc														
+Tougaloo	#NPlc	College	#NU																		
+Wesley	#NPsn	Biblical	#JR	Seminary	#NR																
+William	#NPsn	Carey	#NPsn	University	#NU																
+Avila	#NPsn	University	#NU																		
+Mission	#NN	University	#NU																		
+Cox	#NPsn	College	#NU																		
+Calvary	#NPlc	University	#NU																		
+Central	#JD	Christian	#JR	College	#NU	of	#PR	the	#TH	Bible	#NR										
+Central	#JD	Methodist	#JR	University	#NU	College	#NU	of	#PR	Liberal	#JS	Arts	#NN	&	#CJ	Sciences	#NN				
+University	#NU	of	#PR	Central	#JD	Missouri	#NPlc														
+Cleveland	#NPlc	University	#NU	Kansas	#NPlc	City	#NN														
+Columbia	#NPlc	College	#NU																		
+Conception	#NN	Seminary	#NR	College	#NU																
+Cottey	#NPsn	College	#NU																		
+Culver	#NPsn	Stockton	#NPsn	College	#NU																
+Drury	#NPsn	University	#NU																		
+Evangel	#NR	University	#NU																		
+Fontbonne	#NPsn	University	#NU																		
+Hannibal	#NPlc	LaGrange	#NPlc	University	#NU																
+Harris	#NPsn	Stowe	#NPsn	State	#NN	University	#NU														
+Kansas	#NPlc	City	#NN	Art	#NS	Institute	#NU														
+Lincoln	#NPsn	University	#NU																		
+Lindenwood	#NPlc	University	#NU																		
+Logan	#NPsn	University	#NU																		
+Maryville	#NPlc	University	#NU	of	#PR	Saint	#NR	Louis	#NPsn												
+Midwestern	#JD	Baptist	#JR	Theological	#JR	Seminary	#NR														
+Missouri	#NPlc	Baptist	#NR	University	#NU																
+Missouri	#NPlc	Southern	#JD	State	#NN	University	#NU														
+Missouri	#NPlc	Valley	#NN	College	#NU																
+Missouri	#NPlc	Western	#JD	State	#NN	University	#NU														
+University	#NU	of	#PR	Missouri	#NPlc	Columbia	#NPlc														
+University	#NU	of	#PR	Missouri	#NPlc	Kansas	#NPlc	City	#NN												
+Missouri	#NPlc	University	#NU	of	#PR	Science	#NN	&	#CJ	Technology	#NN										
+University	#NU	of	#PR	Missouri	#NPlc	St	#NN	Louis	#NPsn												
+Truman	#NPsn	State	#NN	University	#NU																
+Northwest	#JD	Missouri	#NPlc	State	#NN	University	#NU														
+Ozark	#NPlc	Christian	#JR	College	#NU																
+College	#NU	of	#PR	the	#TH	Ozarks	#NPlc														
+Park	#NPlc	University	#NU																		
+Rockhurst	#NPlc	University	#NU																		
+Saint	#NR	Louis	#NPsn	University	#NU																
+University	#NU	of	#PR	Health	#NN	Sciences	#NN	&	#CJ	Pharmacy	#NN	in	#PR	St.	#NR	Louis	#NPsn				
+Southwest	#JD	Baptist	#NR	University	#NU																
+Stephens	#NPsn	College	#NU																		
+Southeast	#JD	Missouri	#NPlc	State	#NN	University	#NU														
+Missouri	#NPlc	State	#NN	University	#NU	Springfield	#NPlc														
+Washington	#NPsn	University	#NU	in	#PR	St	#NN	Louis	#NPsn												
+Webster	#NPsn	University	#NU																		
+Westminster	#NPlc	College	#NU																		
+William	#NPsn	Jewell	#NPsn	College	#NU																
+William	#NPsn	Woods	#NPsn	University	#NU																
+Carroll	#NPsn	College	#NU																		
+Montana	#NPlc	State	#NN	University	#NU	Billings	#NPlc														
+University	#NU	of	#PR	Providence	#NPlc																
+Montana	#NPlc	Technological	#JS	University	#NU																
+Montana	#NPlc	State	#NN	University	#NU																
+The	#TH	University	#NU	of	#PR	Montana	#NPlc														
+Montana	#NPlc	State	#NN	University	#NU	Northern	#JD														
+Rocky	#JJ	Mountain	#NN	College	#NU																
+The	#TH	University	#NU	of	#PR	Montana	#NPlc	Western	#JD												
+Bellevue	#NPlc	University	#NU																		
+Clarkson	#NPsn	College	#NU																		
+Bryan	#NPsn	College	#NU	of	#PR	Health	#NS	Sciences	#NS												
+Chadron	#NPlc	State	#NN	College	#NU																
+Concordia	#NPlc	University	#NU	Nebraska	#NPlc																
+Creighton	#NPsn	University	#NU																		
+Doane	#NPsn	University	#NU																		
+Hastings	#NPlc	College	#NU																		
+University	#NU	of	#PR	Nebraska	#NPlc	at	#PR	Kearney	#NPlc												
+Nebraska	#NPlc	Methodist	#JR	College	#NU	of	#PR	Nursing	#NN	&	#CJ	Allied	#JS	Health	#NN						
+Midland	#NPlc	University	#NU																		
+University	#NU	of	#PR	Nebraska	#NPlc	at	#PR	Omaha	#NPlc												
+Nebraska	#NPlc	Wesleyan	#JR	University	#NU																
+University	#NU	of	#PR	Nebraska	#NPlc	Lincoln	#NPlc														
+Peru	#NPlc	State	#NN	College	#NU																
+College	#NU	of	#PR	Saint	#NR	Mary	#NPsn														
+Union	#NN	Adventist	#JR	University	#NU																
+Wayne	#NPlc	State	#NN	College	#NU																
+York	#NPlc	University	#NU																		
+University	#NU	of	#PR	Nevada	#NPlc	Las	#NN	Vegas	#NPlc												
+University	#NU	of	#PR	Nevada	#NPlc	Reno	#NPlc														
+Colby	#NPsn	Sawyer	#NPsn	College	#NU																
+Dartmouth	#NPlc	College	#NU																		
+Franklin	#NPsn	Pierce	#NPsn	University	#NU																
+Magdalen	#NPsn	College	#NU																		
+New	#NN	England	#NPlc	College	#NU																
+Southern	#JD	New	#NN	Hampshire	#NPlc	University	#NU														
+University	#NU	of	#PR	New	#NN	Hampshire	#NPlc	Main	#NN	Campus	#NN										
+Keene	#NPlc	State	#NN	College	#NU																
+University	#NU	of	#PR	New	#NN	Hampshire	#NPlc	at	#PR	Manchester	#NPlc										
+Plymouth	#NPlc	State	#NN	University	#NU																
+Rivier	#NPsn	University	#NU																		
+Saint	#NR	Anselm	#NPsn	College	#NU																
+Thomas	#NPsn	More	#NPsn	College	#NU	of	#PR	Liberal	#NS	Arts	#NS										
+Berkeley	#NPsn	College	#NU	Woodland	#NN	Park	#NN														
+Bloomfield	#NPlc	College	#NU																		
+Caldwell	#NPlc	University	#NU																		
+Centenary	#NN	University	#NU																		
+Drew	#NPsn	University	#NU																		
+Fairleigh	#NPsn	Dickinson	#NPsn	University	#NU	Metropolitan	#JS	Campus	#NN												
+Felician	#NR	University	#NU																		
+Fairleigh	#NPsn	Dickinson	#NPsn	University	#NU	Florham	#NPlc	Campus	#NN												
+Georgian	#NPsn	Court	#NN	University	#NU																
+Rowan	#NPsn	University	#NU																		
+New	#NN	Jersey	#NPlc	City	#NN	University	#NU														
+Kean	#NPsn	University	#NU																		
+Monmouth	#NPlc	University	#NU																		
+Montclair	#NPlc	State	#NN	University	#NU																
+New	#NN	Jersey	#NPlc	Institute	#NU	of	#PR	Technology	#NN												
+Princeton	#NPlc	University	#NU																		
+Rabbinical	#JR	College	#NU	of	#PR	America	#NPlc														
+Ramapo	#NPlc	College	#NU	of	#PR	New	#NN	Jersey	#NPlc												
+Rider	#NN	University	#NU																		
+Rutgers	#NPsn	University	#NU	Camden	#NPlc																
+Rutgers	#NPsn	University	#NU	New	#NN	Brunswick	#NPlc														
+Rutgers	#NPsn	University	#NU	Newark	#NPlc																
+Saint	#NR	Peter	#NPsn	's	#PR	University	#NU														
+Seton	#NN	Hall	#NN	University	#NU																
+Saint	#NR	Elizabeth	#NPsn	University	#NU																
+Stevens	#NPsn	Institute	#NU	of	#PR	Technology	#NS														
+Stockton	#NPlc	University	#NU																		
+Talmudical	#JR	Academy	#NU	New	#NN	Jersey	#NPlc														
+Thomas	#NPsn	Edison	#NPsn	State	#NN	University	#NU														
+The	#TH	College	#NU	of	#PR	New	#NN	Jersey	#NPlc												
+William	#NPsn	Paterson	#NPsn	University	#NU	of	#PR	New	#NN	Jersey	#NPlc										
+Eastern	#JD	New	#NN	Mexico	#NPlc	University	#NU	Main	#NN	Campus	#NN										
+Institute	#NU	of	#PR	American	#JC	Indian	#NN	and	#PR	Alaska	#NPlc	Native	#NN	Culture	#NN	&	#CJ	Arts	#NN	Development	#NN
+New	#NN	Mexico	#NPlc	Highlands	#NN	University	#NU														
+New	#NN	Mexico	#NPlc	Institute	#NU	of	#PR	Mining	#NN	&	#CJ	Technology	#NN								
+University	#NU	of	#PR	New	#NN	Mexico	#NPlc	Main	#NN	Campus	#NN										
+New	#NN	Mexico	#NPlc	State	#NN	University	#NU	Main	#NN	Campus	#NN										
+University	#NU	of	#PR	the	#TH	Southwest	#JD														
+Western	#JD	New	#NN	Mexico	#NPlc	University	#NU														
+Adelphi	#NPlc	University	#NU																		
+Albany	#NPlc	College	#NU	of	#PR	Pharmacy	#NN	&	#CJ	Health	#NN	Sciences	#NN								
+Alfred	#NPsn	University	#NU																		
+Bard	#NPsn	College	#NU																		
+Barnard	#NPsn	College	#NU																		
+Berkeley	#NPsn	College	#NU	New	#NN	York	#NPlc														
+Boricua	#NN	College	#NU																		
+Canisius	#NPsn	University	#NU																		
+Central	#JD	Yeshiva	#NN	Tomchei	#NN	Tmimim	#NN	Lubavitz	#NN												
+Clarkson	#NPsn	University	#NU																		
+Colgate	#NPsn	University	#NU																		
+Metropolitan	#JS	College	#NU	of	#PR	New	#NN	York	#NPlc												
+Columbia	#NPlc	University	#NU	in	#PR	the	#TH	City	#NN	of	#PR	New	#NPlc	York	#NPlc						
+The	#TH	Cooper	#NPsn	Union	#NU	for	#PR	the	#TH	Advancement	#NN	of	#PR	Science	#NN	&	#CJ	Art	#NN		
+Cornell	#NPsn	University	#NU																		
+CUNY	#NN	Bernard	#NPsn	M	#NN	Baruch	#NPsn	College	#NU												
+CUNY	#NN	Brooklyn	#NPlc	College	#NU																
+College	#NU	of	#PR	Staten	#NN	Island	#NN	CUNY	#NN												
+CUNY	#NN	City	#NN	College	#NU																
+CUNY	#NN	Graduate	#NN	School	#NU	and	#PR	University	#NU	Center	#NN										
+CUNY	#NN	Hunter	#NPsn	College	#NU																
+CUNY	#NN	John	#NPsn	Jay	#NPsn	College	#NU	of	#PR	Criminal	#JS	Justice	#NN								
+CUNY	#NN	Lehman	#NPsn	College	#NU																
+CUNY	#NN	Medgar	#NPsn	Evers	#NPsn	College	#NU														
+CUNY	#NN	New	#NN	York	#NPlc	City	#NN	College	#NU	of	#PR	Technology	#NN								
+CUNY	#NN	Queens	#NN	College	#NU																
+CUNY	#NN	York	#NPlc	College	#NU																
+D'Youville	#NPsn	University	#NU																		
+Daemen	#NPsn	University	#NU																		
+Yeshiva	#NN	of	#PR	Far	#NN	Rockaway	#NN	Derech	#NN	Ayson	#NN	Rabbinical	#JR	Seminary	#NR						
+Dominican	#JR	University	#NU	New	#NN	York	#NPlc														
+Elmira	#NPlc	College	#NU																		
+Five	#NN	Towns	#NN	College	#NU																
+Fordham	#NPlc	University	#NU																		
+Hamilton	#NPsn	College	#NU																		
+Hartwick	#NPsn	College	#NU																		
+Hilbert	#NPsn	College	#NU																		
+Hobart	#NPsn	William	#NPsn	Smith	#NPsn	Colleges	#NU														
+Hofstra	#NPsn	University	#NU																		
+Houghton	#NPsn	University	#NU																		
+Iona	#NPsn	University	#NU																		
+Ithaca	#NPlc	College	#NU																		
+Jewish	#JC	Theological	#JR	Seminary	#NR	of	#PR	America	#NPlc												
+The	#TH	Juilliard	#NPsn	School	#NU																
+Kehilath	#NN	Yakov	#NN	Rabbinical	#JR	Seminary	#NR														
+Keuka	#NPlc	College	#NU																		
+LIM	#NN	College	#NU																		
+Le	#NN	Moyne	#NPsn	College	#NU																
+Long	#NN	Island	#NN	University	#NU																
+Machzikei	#NN	Hadath	#NN	Rabbinical	#JR	College	#NU														
+Manhattan	#NPlc	College	#NU																		
+Manhattan	#NPlc	School	#NU	of	#PR	Music	#NS														
+Manhattanville	#NPlc	College	#NU																		
+Marist	#NPsn	College	#NU																		
+Marymount	#NPlc	Manhattan	#NPlc	College	#NU																
+Mercy	#NR	University	#NU																		
+Mesivta	#NR	Torah	#NR	Vodaath	#NR	Rabbinical	#NR	Seminary	#NU												
+Mesivtha	#NR	Tifereth	#NR	Jerusalem	#NPlc	of	#PR	America	#NC												
+Molloy	#NPsn	College	#NU																		
+Monroe	#NPsn	College	#NU																		
+Mount	#NN	Saint	#NR	Mary	#NR	College	#NU														
+University	#NU	of	#PR	Mount	#NN	Saint	#NR	Vincent	#NPsn												
+Nazareth	#NPlc	University	#NU																		
+The	#TH	New	#JJ	School	#NU																
+New	#NPlc	York	#NPlc	University	#NU																
+Niagara	#NPlc	University	#NU																		
+New	#JJ	York	#NPlc	Institute	#NU	of	#PR	Technology	#NS												
+New	#JJ	York	#NPlc	School	#NU	of	#PR	Interior	#NS	Design	#NS										
+Pace	#NPsn	University	#NU																		
+Paul	#NPsn	Smiths	#NPsn	College	#NU	of	#PR	Arts	#NS	and	#CJ	Science	#NS								
+Davis	#NPlc	College	#NU																		
+Pratt	#NPsn	Institute	#NU	Main	#JJ																
+Rabbinical	#NR	Academy	#NU	Mesivta	#NR	Rabbi	#NR	Chaim	#NR	Berlin	#NPlc										
+Rabbinical	#NR	College	#NU	Bobover	#NR	Yeshiva	#NR	Bnei	#NR	Zion	#NR										
+Rabbinical	#NR	Seminary	#NU	Mkor	#NR	Chaim	#NR														
+Rabbinical	#NR	Seminary	#NU	of	#PR	America	#NC														
+Rensselaer	#NPsn	Polytechnic	#NS	Institute	#NU																
+Roberts	#NPsn	Wesleyan	#NR	University	#NU																
+Rochester	#NPlc	Institute	#NU	of	#PR	Technology	#NS														
+University	#NU	of	#PR	Rochester	#NPlc																
+Russell	#NPsn	Sage	#NPsn	College	#NU																
+St	#NR	Bonaventure	#NPsn	University	#NU																
+St.	#NR	Francis	#NPsn	College	#NU																
+St	#NR	Lawrence	#NPsn	University	#NU																
+The	#TH	College	#NU	of	#PR	Saint	#NR	Rose	#NR												
+St.	#NR	Thomas	#NPsn	Aquinas	#NPsn	College	#NU														
+Sarah	#NPsn	Lawrence	#NPsn	College	#NU																
+Sh'or	#NR	Yoshuv	#NR	Rabbinical	#NR	College	#NU														
+Siena	#NPlc	College	#NU																		
+Skidmore	#NPsn	College	#NU																		
+St.	#NR	Joseph's	#NPsn	University	#NU	New	#JJ	York	#NPlc												
+St.	#NR	John	#NPsn	Fisher	#NPsn	University	#NU														
+St.	#NR	John's	#NPsn	University	#NU	New	#JJ	York	#NPlc												
+SUNY	#NN	College	#NU	of	#PR	Technology	#NS	at	#PR	Canton	#NPlc										
+SUNY	#NN	College	#NU	of	#PR	Technology	#NS	at	#PR	Delhi	#NPlc										
+SUNY	#NN	College	#NU	of	#PR	Agriculture	#NS	and	#CJ	Technology	#NS	at	#PR	Cobleskill	#NPlc						
+Farmingdale	#NPlc	State	#NN	College	#NU																
+University	#NU	at	#PR	Albany	#NPlc																
+Binghamton	#NPlc	University	#NU																		
+University	#NU	at	#PR	Buffalo	#NPlc																
+Stony	#NN	Brook	#NPlc	University	#NU																
+SUNY	#NN	College	#NU	of	#PR	Environmental	#JS	Science	#NS	and	#CJ	Forestry	#NS								
+SUNY	#NN	Polytechnic	#JS	Institute	#NU																
+SUNY	#NN	Brockport	#NPlc																		
+SUNY	#NN	Buffalo	#NPlc	State	#NN	University	#NU														
+State	#NN	University	#NU	of	#PR	New	#JJ	York	#NPlc	at	#PR	Cortland	#NPlc								
+SUNY	#NN	at	#PR	Fredonia	#NPlc																
+SUNY	#NN	College	#NU	at	#PR	Geneseo	#NPlc														
+State	#NN	University	#NU	of	#PR	New	#JJ	York	#NPlc	at	#PR	New	#JJ	Paltz	#NPlc						
+SUNY	#NN	Oneonta	#NPlc																		
+State	#NN	University	#NU	of	#PR	New	#JJ	York	#NPlc	at	#PR	Oswego	#NPlc								
+SUNY	#NN	College	#NU	at	#PR	Potsdam	#NPlc														
+SUNY	#NN	at	#PR	Purchase	#NN	College	#NU														
+SUNY	#NN	Old	#JJ	Westbury	#NPlc																
+SUNY	#NN	College	#NU	at	#PR	Plattsburgh	#NPlc														
+Empire	#NN	State	#NN	University	#NU																
+SUNY	#NN	Maritime	#NN	College	#NU																
+Syracuse	#NPlc	University	#NU																		
+Talmudical	#NR	Seminary	#NU	Oholei	#NR	Torah	#NR														
+Talmudical	#NR	Institute	#NU	of	#PR	Upstate	#JJ	New	#JJ	York	#NPlc										
+Torah	#NR	Temimah	#NR	Talmudical	#NR	Seminary	#NU														
+Touro	#NPsn	University	#NU																		
+Union	#NR	College	#NU																		
+United	#NC	Talmudical	#NR	Seminary	#NU																
+United	#NC	States	#NC	Merchant	#NN	Marine	#NN	Academy	#NU												
+United	#NC	States	#NC	Military	#NN	Academy	#NU														
+Utica	#NPlc	University	#NU																		
+Vassar	#NPsn	College	#NU																		
+Villa	#NN	Maria	#NR	College	#NU																
+School	#NU	of	#PR	Visual	#JS	Arts	#NS														
+Wagner	#NPsn	College	#NU																		
+Webb	#NPsn	Institute	#NU																		
+Wells	#NPsn	College	#NU																		
+Yeshiva	#NR	Karlin	#NR	Stolin	#NR																
+Yeshiva	#NR	Derech	#NR	Chaim	#NR																
+Yeshiva	#NR	of	#PR	Nitra	#NR	Rabbinical	#NR	College	#NU												
+Yeshivath	#NR	Shaar	#NR	Hatorah	#NR																
+Yeshiva	#NPsn	University	#NU																		
+Yeshivath	#NR	Viznitz	#NR																		
+Appalachian	#NPlc	State	#NN	University	#NU																
+Barton	#NPsn	College	#NU																		
+Belmont	#NPlc	Abbey	#NR	College	#NU																
+Bennett	#NPsn	College	#NU																		
+Brevard	#NPlc	College	#NU																		
+Campbell	#NPsn	University	#NU																		
+Catawba	#NPlc	College	#NU																		
+Chowan	#NPlc	University	#NU																		
+Davidson	#NPsn	College	#NU																		
+Duke	#NPsn	University	#NU																		
+East	#JD	Carolina	#NPlc	University	#NU																
+Elizabeth	#NPsn	City	#NN	State	#NN	University	#NU														
+Elon	#NN	University	#NU																		
+Fayetteville	#NPlc	State	#NN	University	#NU																
+Gardner	#NPsn	Webb	#NPsn	University	#NU																
+Greensboro	#NPlc	College	#NU																		
+Guilford	#NPlc	College	#NU																		
+High	#JJ	Point	#NN	University	#NU																
+Johnson	#NPsn	C	#NN	Smith	#NPsn	University	#NU														
+Lees	#NPsn	McRae	#NPsn	College	#NU																
+Lenoir	#NPsn	Rhyne	#NPsn	University	#NU																
+Livingstone	#NPlc	College	#NU																		
+Mars	#NN	Hill	#NN	University	#NU																
+Meredith	#NPsn	College	#NU																		
+Methodist	#NR	University	#NU																		
+Montreat	#NPlc	College	#NU																		
+University	#NU	of	#PR	Mount	#NN	Olive	#NR														
+North	#JD	Carolina	#NPlc	A	#NN	&	#CJ	T	#NN	State	#NN	University	#NU								
+University	#NU	of	#PR	North	#JD	Carolina	#NPlc	Asheville	#NPlc												
+University	#NU	of	#PR	North	#JD	Carolina	#NPlc	at	#PR	Chapel	#NN	Hill	#NN								
+University	#NU	of	#PR	North	#JD	Carolina	#NPlc	at	#PR	Charlotte	#NPlc										
+University	#NU	of	#PR	North	#JD	Carolina	#NPlc	at	#PR	Greensboro	#NPlc										
+North	#JD	Carolina	#NPlc	Central	#JJ	University	#NU														
+University	#NU	of	#PR	North	#JD	Carolina	#NPlc	School	#NU	of	#PR	the	#TH	Arts	#NS						
+North	#JD	Carolina	#NPlc	State	#NN	University	#NU	at	#PR	Raleigh	#NPlc										
+North	#JD	Carolina	#NPlc	Wesleyan	#NR	University	#NU														
+University	#NU	of	#PR	North	#JD	Carolina	#NPlc	Wilmington	#NPlc												
+William	#NPsn	Peace	#NPsn	University	#NU																
+University	#NU	of	#PR	North	#JD	Carolina	#NPlc	at	#PR	Pembroke	#NPlc										
+Pfeiffer	#NPsn	University	#NU																		
+Queens	#NN	University	#NU	of	#PR	Charlotte	#NPlc														
+Mid	#JD	Atlantic	#NPlc	Christian	#JR	University	#NU														
+Saint	#NR	Augustine's	#NPsn	University	#NU																
+Salem	#NPlc	College	#NU																		
+Shaw	#NPsn	University	#NU																		
+St.	#NR	Andrews	#NPsn	University	#NU																
+Southeastern	#JD	Baptist	#NR	Theological	#NR	Seminary	#NU														
+Wake	#NN	Forest	#NN	University	#NU																
+Warren	#NPsn	Wilson	#NPsn	College	#NU																
+Wingate	#NPsn	University	#NU																		
+Carolina	#NPlc	Christian	#NR	College	#NU																
+Winston	#NPsn	Salem	#NPlc	State	#NN	University	#NU														
+Western	#JD	Carolina	#NPlc	University	#NU																
+Dickinson	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Jamestown	#NPlc																
+University	#NU	of	#PR	Mary	#NPsn																
+Mayville	#NPlc	State	#NN	University	#NU																
+Minot	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	North	#JD	Dakota	#NPlc														
+North	#JD	Dakota	#NPlc	State	#NN	University	#NU	Main	#JJ	Campus	#NN										
+Trinity	#NR	Bible	#NR	College	#NU	and	#CJ	Graduate	#NN	School	#NU										
+Valley	#NN	City	#NN	State	#NN	University	#NU														
+University	#NU	of	#PR	Akron	#NPlc	Main	#JJ	Campus	#NN												
+Allegheny	#NPlc	Wesleyan	#NR	College	#NU																
+Art	#NS	Academy	#NU	of	#PR	Cincinnati	#NPlc														
+Ashland	#NPlc	University	#NU																		
+Aultman	#NPsn	College	#NU	of	#PR	Nursing	#NS	and	#CJ	Health	#NS	Sciences	#NS								
+Baldwin	#NPsn	Wallace	#NPsn	University	#NU																
+Bluffton	#NPlc	University	#NU																		
+Bowling	#NN	Green	#NN	State	#NN	University	#NU	Main	#JJ	Campus	#NN										
+Capital	#NN	University	#NU																		
+Case	#NPsn	Western	#JD	Reserve	#NN	University	#NU														
+Cedarville	#NPlc	University	#NU																		
+Central	#JD	State	#NN	University	#NU																
+The	#TH	Christ	#NR	College	#NU	of	#PR	Nursing	#NS	and	#CJ	Health	#NS	Sciences	#NS						
+University	#NU	of	#PR	Cincinnati	#NPlc	Main	#JJ	Campus	#NN												
+Ohio	#NPlc	Christian	#JR	University	#NU																
+Cleveland	#NPlc	Institute	#NU	of	#PR	Art	#NS														
+Cleveland	#NPlc	Institute	#NU	of	#PR	Music	#NS														
+Cleveland	#NPlc	State	#NN	University	#NU																
+Columbus	#NPlc	College	#NU	of	#PR	Art	#NN	&	#CJ	Design	#NN										
+University	#NU	of	#PR	Dayton	#NPlc																
+Defiance	#NPlc	College	#NU																		
+Denison	#NPsn	University	#NU																		
+The	#TH	University	#NU	of	#PR	Findlay	#NPlc														
+Franklin	#NPsn	University	#NU																		
+Gods	#NR	Bible	#NR	School	#NU	and	#CJ	College	#NU												
+Heidelberg	#NPlc	University	#NU																		
+Hiram	#NPlc	College	#NU																		
+John	#NPsn	Carroll	#NPsn	University	#NU																
+Kent	#NPlc	State	#NN	University	#NU	at	#PR	Kent	#NPlc												
+Kenyon	#NPsn	College	#NU																		
+Kettering	#NPlc	College	#NU																		
+Lake	#NN	Erie	#NPlc	College	#NU																
+Lourdes	#NPlc	University	#NU																		
+Malone	#NPsn	University	#NU																		
+Marietta	#NPlc	College	#NU																		
+Miami	#NPlc	University	#NU	Hamilton	#NPsn																
+Miami	#NPlc	University	#NU	Middletown	#NPlc																
+Miami	#NPlc	University	#NU	Oxford	#NPlc																
+Mount	#NN	Carmel	#NR	College	#NU	of	#PR	Nursing	#NS												
+University	#NU	of	#PR	Mount	#NN	Union	#NN														
+Mount	#NN	Vernon	#NPlc	Nazarene	#NR	University	#NU														
+Mount	#NN	St.	#NR	Joseph	#NPsn	University	#NU														
+Muskingum	#NPlc	University	#NU																		
+Oberlin	#NPsn	College	#NU																		
+Ohio	#NPlc	Dominican	#JJ	University	#NU																
+Ohio	#NPlc	Northern	#JD	University	#NU																
+Ohio	#NPlc	State	#NN	University	#NU	Lima	#NPlc	Campus	#NN												
+Ohio	#NPlc	State	#NN	University	#NU	Main	#JJ	Campus	#NN												
+Ohio	#NPlc	University	#NU	Eastern	#JD	Campus	#NN														
+Ohio	#NPlc	University	#NU	Lancaster	#NPlc	Campus	#NN														
+Ohio	#NPlc	University	#NU	Main	#JJ	Campus	#NN														
+Ohio	#NPlc	Wesleyan	#JR	University	#NU																
+Otterbein	#NPsn	University	#NU																		
+Pontifical	#NR	College	#NU	Josephinum	#NR																
+Rabbinical	#NR	College	#NU	Telshe	#NR																
+Shawnee	#NN	State	#NN	University	#NU																
+Franciscan	#NN	University	#NU	of	#PR	Steubenville	#NPlc														
+Tiffin	#NPlc	University	#NU																		
+University	#NU	of	#PR	Toledo	#NPlc																
+Ursuline	#NPsn	College	#NU																		
+Walsh	#NPsn	University	#NU																		
+Wilberforce	#NPlc	University	#NU																		
+Wilmington	#NPlc	College	#NU																		
+Wittenberg	#NPlc	University	#NU																		
+The	#TH	College	#NU	of	#PR	Wooster	#NPlc														
+Wright	#NPsn	State	#NN	University	#NU	Main	#JJ	Campus	#NN												
+Wright	#NPsn	State	#NN	University	#NU	Lake	#NN	Campus	#NN												
+Xavier	#NPsn	University	#NU																		
+Youngstown	#NPlc	State	#NN	University	#NU																
+Oklahoma	#NPlc	Wesleyan	#JR	University	#NU																
+Southern	#JD	Nazarene	#NPlc	University	#NU																
+Cameron	#NPsn	University	#NU																		
+University	#NU	of	#PR	Central	#JD	Oklahoma	#NPlc														
+East	#JD	Central	#JD	University	#NU																
+Randall	#NPsn	University	#NU																		
+Langston	#NPlc	University	#NU																		
+Northeastern	#JJ	State	#NN	University	#NU																
+Northwestern	#JD	Oklahoma	#NPlc	State	#NN	University	#NU														
+Oklahoma	#NPlc	Christian	#JR	University	#NU																
+Oklahoma	#NPlc	Panhandle	#NS	State	#NN	University	#NU														
+Oklahoma	#NPlc	State	#NN	University	#NU	Main	#JJ	Campus	#NN												
+Oklahoma	#NPlc	Baptist	#NR	University	#NU																
+Oklahoma	#NPlc	City	#NN	University	#NU																
+University	#NU	of	#PR	Oklahoma	#NPlc	Norman	#NPlc	Campus	#NN												
+Oral	#NPsn	Roberts	#NPsn	University	#NU																
+Rogers	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Science	#NS	and	#CJ	Arts	#NS	of	#PR	Oklahoma	#NPlc								
+Southeastern	#JD	Oklahoma	#NPlc	State	#NN	University	#NU														
+Southwestern	#JD	Christian	#JR	University	#NU																
+Southwestern	#JD	Oklahoma	#NPlc	State	#NN	University	#NU														
+University	#NU	of	#PR	Tulsa	#NPlc																
+Eastern	#JD	Oregon	#NPlc	University	#NU																
+New	#JJ	Hope	#NN	Christian	#NR	College	#NU	Eugene	#NPsn												
+George	#NPsn	Fox	#NPsn	University	#NU																
+Lewis	#NPsn	&	#CJ	Clark	#NPsn	College	#NU														
+Linfield	#NPlc	University	#NU																		
+Mount	#NN	Angel	#NR	Seminary	#NU																
+Multnomah	#NPlc	University	#NU																		
+Bushnell	#NPsn	University	#NU																		
+Oregon	#NPlc	Institute	#NU	of	#PR	Technology	#NS														
+Oregon	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Oregon	#NPlc																
+Pacific	#NPlc	Northwest	#JD	College	#NU	of	#PR	Art	#NS												
+Pacific	#NPlc	University	#NU																		
+Portland	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Portland	#NPlc																
+Reed	#NPsn	College	#NU																		
+Southern	#JD	Oregon	#NPlc	University	#NU																
+Warner	#NPsn	Pacific	#NN	University	#NU																
+Corban	#NN	University	#NU																		
+Willamette	#NPlc	University	#NU																		
+Western	#JD	Oregon	#NPlc	University	#NU																
+Bryn	#NN	Athyn	#NN	College	#NU	of	#PR	the	#TH	New	#JJ	Church	#NR								
+Albright	#NPsn	College	#NU																		
+Allegheny	#NPlc	College	#NU																		
+DeSales	#NPsn	University	#NU																		
+Alvernia	#NPlc	University	#NU																		
+Clarks	#NPsn	Summit	#NN	University	#NU																
+Arcadia	#NPlc	University	#NU																		
+Bryn	#NN	Mawr	#NN	College	#NU																
+Bucknell	#NPsn	College	#NU																		
+Cabrini	#NN	University	#NU																		
+Carlow	#NPlc	University	#NU																		
+Carnegie	#NPsn	Mellon	#NPsn	University	#NU																
+Cedar	#NN	Crest	#NN	College	#NU																
+Chatham	#NPlc	University	#NU																		
+Chestnut	#NN	Hill	#NN	College	#NU																
+Cheyney	#NPsn	University	#NU	of	#PR	Pennsylvania	#NPlc														
+Curtis	#NPsn	Institute	#NU	of	#PR	Music	#NS														
+Delaware	#NPlc	Valley	#NN	University	#NU																
+Dickinson	#NPsn	College	#NU																		
+Drexel	#NPsn	University	#NU																		
+Duquesne	#NPlc	University	#NU																		
+East	#JD	Stroudsburg	#NPlc	University	#NU	of	#PR	Pennsylvania	#NPlc												
+Eastern	#JD	University	#NU																		
+Elizabethtown	#NPlc	College	#NU																		
+Franklin	#NPsn	and	#CJ	Marshall	#NPsn	College	#NU														
+Gannon	#NPsn	University	#NU																		
+Geneva	#NPlc	College	#NU																		
+Gettysburg	#NPlc	College	#NU																		
+Gwynedd	#NPlc	Mercy	#NR	University	#NU																
+Haverford	#NPlc	College	#NU																		
+Holy	#JR	Family	#NN	University	#NU																
+Immaculata	#NPlc	University	#NU																		
+Indiana	#NPlc	University	#NU	of	#PR	Pennsylvania	#NPlc	Main	#JJ	Campus	#NN										
+Juniata	#NPlc	College	#NU																		
+Keystone	#NN	College	#NU																		
+King's	#NN	College	#NU																		
+Kutztown	#NPlc	University	#NU	of	#PR	Pennsylvania	#NPlc														
+La	#NN	Roche	#NPsn	University	#NU																
+La	#NN	Salle	#NPsn	University	#NU																
+Lafayette	#NPlc	College	#NU																		
+Lancaster	#NPlc	Bible	#NR	College	#NU																
+Lebanon	#NPlc	Valley	#NN	College	#NU																
+Lehigh	#NPlc	University	#NU																		
+Lincoln	#NPsn	University	#NU																		
+Lycoming	#NPlc	College	#NU																		
+Marywood	#NN	University	#NU																		
+Mercyhurst	#NPlc	University	#NU																		
+Messiah	#NR	University	#NU																		
+Millersville	#NPlc	University	#NU	of	#PR	Pennsylvania	#NPlc														
+Misericordia	#NN	University	#NU																		
+Moore	#NPlc	College	#NU	of	#PR	Art	#NS	and	#CJ	Design	#NS										
+Moravian	#NR	University	#NU																		
+Mount	#NN	Aloysius	#NPsn	College	#NU																
+Muhlenberg	#NPlc	College	#NU																		
+Neumann	#NPsn	University	#NU																		
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Erie	#NPlc	Behrend	#NPsn	College	#NU						
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	New	#JJ	Kensington	#NPlc								
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Shenango	#NPlc										
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Wilkes	#NPsn	Barre	#NPlc								
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Scranton	#NPlc										
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Lehigh	#NPlc	Valley	#NN								
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Altoona	#NPlc										
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Beaver	#NPlc										
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Berks	#NPlc										
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Harrisburg	#NPlc										
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Brandywine	#NPlc										
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Fayette	#NPlc	Eberly	#NPsn								
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Hazleton	#NPlc										
+Pennsylvania	#NPlc	State	#NN	University	#NU	Main	#JJ	Campus	#NN												
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Greater	#JJ	Allegheny	#NPlc								
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Mont	#NN	Alto	#NPlc								
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Abington	#NPlc										
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	Schuylkill	#NPlc										
+Pennsylvania	#NPlc	State	#NN	University	#NU	Penn	#NN	State	#NN	York	#NPlc										
+Peirce	#NPsn	College	#NU																		
+Pennsylvania	#NPlc	Academy	#NU	of	#PR	the	#TH	Fine	#JS	Arts	#NS										
+Pennsylvania	#NPlc	College	#NU	of	#PR	Art	#NS	and	#CJ	Design	#NS										
+University	#NU	of	#PR	Pennsylvania	#NPlc																
+University	#NU	of	#PR	the	#TH	Arts	#NS														
+Cairn	#NN	University	#NU	Langhorne	#NPlc																
+University	#NU	of	#PR	Pittsburgh	#NPlc	Bradford	#NPlc														
+University	#NU	of	#PR	Pittsburgh	#NPlc	Greensburg	#NPlc														
+University	#NU	of	#PR	Pittsburgh	#NPlc	Johnstown	#NPlc														
+University	#NU	of	#PR	Pittsburgh	#NPlc	Pittsburgh	#NPlc	Campus	#NN												
+Point	#NN	Park	#NN	University	#NU																
+Robert	#NPsn	Morris	#NPsn	University	#NU																
+Rosemont	#NPlc	College	#NU																		
+Saint	#NR	Francis	#NPsn	University	#NU																
+Saint	#NR	Joseph's	#NPsn	University	#NU																
+Saint	#NR	Vincent	#NPsn	College	#NU																
+University	#NU	of	#PR	Scranton	#NPlc																
+Seton	#NPsn	Hill	#NN	University	#NU																
+Shippensburg	#NPlc	University	#NU	of	#PR	Pennsylvania	#NPlc														
+Slippery	#NN	Rock	#NN	University	#NU	of	#PR	Pennsylvania	#NPlc												
+Saint	#NR	Charles	#NPsn	Borromeo	#NPsn	Seminary	#NU	Overbrook	#NPlc												
+Susquehanna	#NPlc	University	#NU																		
+Swarthmore	#NPlc	College	#NU																		
+Talmudical	#NR	Yeshiva	#NR	of	#PR	Philadelphia	#NPlc														
+Temple	#NR	University	#NU																		
+Thiel	#NPsn	College	#NU																		
+Thomas	#NPsn	Jefferson	#NPsn	University	#NU																
+Ursinus	#NPsn	College	#NU																		
+University	#NU	of	#PR	Valley	#NN	Forge	#NN														
+Villanova	#NPlc	University	#NU																		
+Washington	#NPlc	&	#CJ	Jefferson	#NPlc	College	#NU														
+Waynesburg	#NPlc	University	#NU																		
+West	#JD	Chester	#NPlc	University	#NU	of	#PR	Pennsylvania	#NPlc												
+Westminster	#NPlc	College	#NU																		
+Widener	#NPsn	University	#NU																		
+Wilkes	#NPlc	University	#NU																		
+Wilson	#NPsn	College	#NU																		
+York	#NPlc	College	#NU	of	#PR	Pennsylvania	#NPlc														
+Brown	#NPsn	University	#NU																		
+Bryant	#NPsn	University	#NU																		
+Johnson	#NPsn	&	#CJ	Wales	#NPlc	University	#NU	Providence	#NPlc												
+Providence	#NPlc	College	#NU																		
+Rhode	#NPlc	Island	#NPlc	College	#NU																
+University	#NU	of	#PR	Rhode	#NPlc	Island	#NPlc														
+Rhode	#NPlc	Island	#NPlc	School	#NU	of	#PR	Design	#NN												
+Roger	#NPsn	Williams	#NPsn	University	#NU																
+Salve	#NN	Regina	#NNR	University	#NU																
+Northpoint	#NN	Bible	#NR	College	#NU																
+Allen	#NPsn	University	#NU																		
+Anderson	#NPlc	University	#NU																		
+Charleston	#NPlc	Southern	#JD	University	#NU																
+Benedict	#NPsn	College	#NU																		
+Bob	#NPsn	Jones	#NPsn	University	#NU																
+Southern	#JD	Wesleyan	#JR	University	#NU																
+College	#NU	of	#PR	Charleston	#NPlc																
+Citadel	#NN	Military	#NN	College	#NU	of	#PR	South	#JD	Carolina	#NPlc										
+Claflin	#NPsn	University	#NU																		
+Clemson	#NPlc	University	#NU																		
+Clinton	#NPsn	College	#NU																		
+Coker	#NPsn	University	#NU																		
+Columbia	#NPlc	International	#JJ	University	#NU																
+Columbia	#NPlc	College	#NU																		
+Converse	#NPsn	University	#NU																		
+Erskine	#NPsn	College	#NU																		
+Francis	#NPsn	Marion	#NPsn	University	#NU																
+Furman	#NPsn	University	#NU																		
+Lander	#NPsn	University	#NU																		
+Limestone	#NN	University	#NU																		
+Morris	#NPsn	College	#NU																		
+Newberry	#NPlc	College	#NU																		
+North	#JD	Greenville	#NPlc	University	#NU																
+Presbyterian	#JR	College	#NU																		
+University	#NU	of	#PR	South	#JD	Carolina	#NPlc	Aiken	#NPlc												
+University	#NU	of	#PR	South	#JD	Carolina	#NPlc	Beaufort	#NPlc												
+University	#NU	of	#PR	South	#JD	Carolina	#NPlc	Columbia	#NPlc												
+Coastal	#JJ	Carolina	#NPlc	University	#NU																
+South	#JD	Carolina	#NPlc	State	#NN	University	#NU														
+University	#NU	of	#PR	South	#JD	Carolina	#NPlc	Upstate	#NPlc												
+Voorhees	#NPsn	University	#NU																		
+Winthrop	#NPsn	University	#NU																		
+Wofford	#NPsn	College	#NU																		
+Augustana	#NPlc	University	#NU																		
+Black	#NN	Hills	#NN	State	#NN	University	#NU														
+Dakota	#NPlc	State	#NN	University	#NU																
+Dakota	#NPlc	Wesleyan	#JR	University	#NU																
+Mount	#NN	Marty	#NPsn	University	#NU																
+Northern	#JD	State	#NN	University	#NU																
+South	#JD	Dakota	#NPlc	School	#NU	of	#PR	Mines	#NN	and	#CJ	Technology	#NS								
+South	#JD	Dakota	#NPlc	State	#NN	University	#NU														
+Sinte	#NN	Gleska	#NN	University	#NU																
+University	#NU	of	#PR	Sioux	#NN	Falls	#NPlc														
+University	#NU	of	#PR	South	#JD	Dakota	#NPlc														
+American	#JC	Baptist	#NR	College	#NU																
+Austin	#NPsn	Peay	#NPsn	State	#NN	University	#NU														
+Baptist	#NR	Health	#NS	Sciences	#NS	University	#NU														
+Belmont	#NPlc	University	#NU																		
+Bethel	#NR	University	#NU																		
+Bryan	#NPsn	College	#NU	Dayton	#NPlc																
+Carson	#NPsn	Newman	#NPsn	University	#NU																
+Christian	#JR	Brothers	#NN	University	#NU																
+Cumberland	#NPlc	University	#NU																		
+Lipscomb	#NPsn	University	#NU																		
+East	#JD	Tennessee	#NPlc	State	#NN	University	#NU														
+Fisk	#NPsn	University	#NU																		
+Welch	#NPsn	College	#NU																		
+Freed	#NPsn	Hardeman	#NPsn	University	#NU																
+Johnson	#NPsn	University	#NU																		
+King	#NN	University	#NU																		
+Lane	#NN	College	#NU																		
+Le	#NN	Moyne	#NPsn	Owen	#NPsn	College	#NU														
+Lee	#NPsn	University	#NU																		
+Lincoln	#NPsn	Memorial	#JJ	University	#NU																
+The	#TH	University	#NU	of	#PR	Tennessee	#NPlc	Southern	#JJ												
+Maryville	#NS	College	#NU																		
+University	#NU	of	#PR	Memphis	#NPlc																
+Middle	#JD	Tennessee	#NPlc	State	#NN	University	#NU														
+Rhodes	#NPsn	College	#NU																		
+The	#TH	University	#NU	of	#PR	the	#TH	South	#NN												
+Southern	#JD	Adventist	#JR	University	#NU																
+Tennessee	#NPlc	Wesleyan	#JR	University	#NU																
+The	#TH	University	#NU	of	#PR	Tennessee	#NPlc	Chattanooga	#NPlc												
+The	#TH	University	#NU	of	#PR	Tennessee	#NPlc	Knoxville	#NPlc												
+The	#TH	University	#NU	of	#PR	Tennessee	#NPlc	Martin	#NPsn												
+Tennessee	#NPlc	State	#NN	University	#NU																
+Tennessee	#NPlc	Technological	#JS	University	#NU																
+Trevecca	#NPlc	Nazarene	#NPlc	University	#NU																
+Tusculum	#NN	University	#NU																		
+Union	#NR	University	#NU																		
+Vanderbilt	#NPsn	University	#NU																		
+Abilene	#NPlc	Christian	#JR	University	#NU																
+Angelo	#NPlc	State	#NN	University	#NU																
+Arlington	#NPlc	Baptist	#NR	University	#NU																
+Austin	#NPsn	College	#NU																		
+Baptist	#JR	Missionary	#NR	Theological	#NR	Seminary	#NU														
+Baylor	#NPsn	University	#NU																		
+Concordia	#NPlc	University	#NU	Texas	#NPlc																
+Texas	#NPlc	A	#NN	&	#CJ	M	#NN	University	#NU	Corpus	#NN	Christi	#NN								
+Dallas	#NPlc	Baptist	#NR	University	#NU																
+Dallas	#NPlc	Christian	#JR	College	#NU																
+University	#NU	of	#PR	Dallas	#NPsn																
+East	#JD	Texas	#NPlc	Baptist	#NR	University	#NU														
+Texas	#NPlc	A	#NN	&	#CJ	M	#NN	University	#NU	Texarkana	#NPlc										
+Texas	#NPlc	A	#NN	&	#CJ	M	#NN	University	#NU	Commerce	#NN										
+Hallmark	#NN	University	#NU																		
+Hardin	#NPsn	Simmons	#NPsn	University	#NU																
+Houston	#NPlc	Christian	#JR	University	#NU																
+University	#NU	of	#PR	Houston	#NPlc	Clear	#NN	Lake	#NN												
+University	#NU	of	#PR	Houston	#NPlc	Downtown	#NPlc														
+University	#NU	of	#PR	Houston	#NPlc	Victoria	#NPlc														
+University	#NU	of	#PR	Houston	#NPlc																
+Howard	#NPsn	Payne	#NPsn	University	#NU																
+Huston	#NPsn	Tillotson	#NPsn	University	#NU																
+University	#NU	of	#PR	the	#TH	Incarnate	#JJ	Word	#NN												
+Jarvis	#NPsn	Christian	#JR	University	#NU																
+Lamar	#NPsn	University	#NU																		
+Texas	#NPlc	A	#NN	&	#CJ	M	#NN	International	#JJ	University	#NU										
+LeTourneau	#NN	University	#NU																		
+Lubbock	#NPlc	Christian	#JR	University	#NU																
+University	#NU	of	#PR	Mary	#NPsn	Hardin	#NPsn	Baylor	#NPsn												
+McMurry	#NPsn	University	#NU																		
+Midwestern	#JD	State	#NN	University	#NU																
+University	#NU	of	#PR	North	#JD	Texas	#NPlc														
+Our	#JJ	Lady	#NN	of	#PR	the	#TH	Lake	#NS	University	#NU										
+The	#TH	University	#NU	of	#PR	Texas	#NPlc	Rio	#NN	Grande	#NN	Valley	#NN								
+Paul	#NPsn	Quinn	#NPsn	College	#NU																
+Prairie	#NN	View	#NN	A	#NN	&	#CJ	M	#NN	University	#NU										
+Rice	#NPsn	University	#NU																		
+Saint	#NPsn	Edward's	#NPsn	University	#NU																
+University	#NU	of	#PR	St	#NPsn	Thomas	#NPsn														
+Sam	#NPsn	Houston	#NPsn	State	#NN	University	#NU														
+Schreiner	#NPsn	University	#NU																		
+St.	#NPsn	Mary's	#NPsn	University	#NU																
+Southern	#JD	Methodist	#NR	University	#NU																
+Southwestern	#JD	Assemblies	#NN	of	#PR	God	#NN	University	#NU												
+Southwestern	#JD	University	#NU																		
+Stephen	#NPsn	F	#NN	Austin	#NPsn	State	#NN	University	#NU												
+Texas	#NPlc	State	#NN	University	#NU																
+Southwestern	#JD	Adventist	#NR	University	#NU																
+Sul	#NPsn	Ross	#NPsn	State	#NN	University	#NU														
+Tarleton	#NPsn	State	#NN	University	#NU																
+Texas	#NPlc	A	#NN	&	#CJ	M	#NN	University	#NU	Kingsville	#NPlc										
+Texas	#NPlc	A	#NN	&	#CJ	M	#NN	University	#NU	College	#NU	Station	#NN								
+The	#TH	University	#NU	of	#PR	Texas	#NPlc	at	#PR	Arlington	#NPlc										
+The	#TH	University	#NU	of	#PR	Texas	#NPlc	at	#PR	Austin	#NPlc										
+The	#TH	University	#NU	of	#PR	Texas	#NPlc	at	#PR	Dallas	#NPlc										
+The	#TH	University	#NU	of	#PR	Texas	#NPlc	at	#PR	El	#NN	Paso	#NN								
+The	#TH	University	#NU	of	#PR	Texas	#NPlc	at	#PR	Tyler	#NPlc										
+Texas	#NPlc	Christian	#JR	University	#NU																
+Texas	#NPlc	College	#NU																		
+Texas	#NPlc	Lutheran	#JR	University	#NU																
+The	#TH	University	#NU	of	#PR	Texas	#NPlc	Permian	#NN	Basin	#NN										
+The	#TH	University	#NU	of	#PR	Texas	#NPlc	at	#PR	San	#NN	Antonio	#NPlc								
+Texas	#NPlc	Southern	#JD	University	#NU																
+Texas	#NPlc	Tech	#NS	University	#NU																
+Texas	#NPlc	Wesleyan	#JR	University	#NU																
+Texas	#NPlc	Woman's	#JJ	University	#NU																
+Trinity	#NR	University	#NU																		
+Wayland	#NPsn	Baptist	#NR	University	#NU																
+West	#JD	Texas	#NPlc	A	#NN	&	#CJ	M	#NN	University	#NU										
+Wiley	#NPsn	University	#NU																		
+Brigham	#NPsn	Young	#NPsn	University	#NU																
+Brigham	#NPsn	Young	#NPsn	University	#NU	Hawaii	#NPlc														
+Eagle	#NN	Gate	#NN	College	#NU	Murray	#NPlc														
+Utah	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Utah	#NPlc																
+Westminster	#NN	University	#NU																		
+Bennington	#NPlc	College	#NU																		
+Champlain	#NPlc	College	#NU																		
+Goddard	#NPlc	College	#NU																		
+Middlebury	#NPlc	College	#NU																		
+Norwich	#NPlc	University	#NU																		
+Saint	#NPsn	Michael's	#NPsn	College	#NU																
+Sterling	#NPsn	College	#NU																		
+Vermont	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Vermont	#NPlc																
+Averett	#NPsn	University	#NU																		
+Bluefield	#NPlc	University	#NU																		
+Bridgewater	#NPlc	College	#NU																		
+William	#NPsn	&	#CJ	Mary	#NPsn																
+Regent	#NR	University	#NU																		
+Christopher	#NPsn	Newport	#NPlc	University	#NU																
+Emory	#NPsn	&	#CJ	Henry	#NPsn	University	#NU														
+Eastern	#JD	Mennonite	#NPlc	University	#NU																
+Ferrum	#NPlc	College	#NU																		
+George	#NPsn	Mason	#NPsn	University	#NU																
+Hampden	#NN	Sydney	#NPlc	College	#NU																
+Hampton	#NPlc	University	#NU																		
+Hollins	#NPsn	University	#NU																		
+James	#NPsn	Madison	#NPsn	University	#NU																
+Liberty	#NN	University	#NU																		
+Longwood	#NPlc	University	#NU																		
+University	#NU	of	#PR	Lynchburg	#NPlc																
+Mary	#NPsn	Baldwin	#NPsn	University	#NU																
+University	#NU	of	#PR	Mary	#NPsn	Washington	#NPsn														
+Marymount	#NPlc	University	#NU																		
+Norfolk	#NPlc	State	#NN	University	#NU																
+Old	#JJ	Dominion	#NN	University	#NU																
+Radford	#NPlc	University	#NU																		
+Randolph	#NPsn	Macon	#NPsn	College	#NU																
+Randolph	#NPsn	College	#NU																		
+University	#NU	of	#PR	Richmond	#NPlc																
+Roanoke	#NPlc	College	#NU																		
+Shenandoah	#NPlc	University	#NU																		
+Southeastern	#JD	Free	#NN	Will	#NN	Baptist	#JR	Bible	#NR	College	#NU										
+Southern	#JD	Virginia	#NPlc	University	#NU																
+Strayer	#NPsn	University	#NU	Virginia	#NPlc																
+Sweet	#NN	Briar	#NN	College	#NU																
+University	#NU	of	#PR	Virginia	#NPlc	's	#PR	College	#NU	at	#PR	Wise	#NN								
+Virginia	#NPlc	Polytechnic	#NS	Institute	#NU	and	#CJ	State	#NN	University	#NU										
+Virginia	#NPlc	Commonwealth	#NN	University	#NU																
+University	#NU	of	#PR	Virginia	#NPlc	Main	#NN	Campus	#NN												
+Virginia	#NPlc	Military	#NN	Institute	#NU																
+Virginia	#NPlc	University	#NU	of	#PR	Lynchburg	#NPlc														
+Virginia	#NPlc	State	#NN	University	#NU																
+Virginia	#NPlc	Union	#NN	University	#NU																
+Virginia	#NPlc	Wesleyan	#JR	University	#NU																
+Washington	#NPsn	and	#CJ	Lee	#NPsn	University	#NU														
+Central	#JD	Washington	#NPlc	University	#NU																
+City	#NN	University	#NU	of	#PR	Seattle	#NPlc														
+Cornish	#NPsn	College	#NU	of	#PR	the	#TH	Arts	#NS												
+Eastern	#JD	Washington	#NPlc	University	#NU																
+The	#TH	Evergreen	#NN	State	#NN	College	#NU														
+Gonzaga	#NPlc	University	#NU																		
+Heritage	#NN	University	#NU																		
+Northwest	#JD	University	#NU																		
+Pacific	#NPlc	Lutheran	#JR	University	#NU																
+University	#NU	of	#PR	Puget	#NN	Sound	#NN														
+Saint	#NPsn	Martin's	#NPsn	University	#NU																
+Seattle	#NPlc	Pacific	#NPlc	University	#NU																
+Seattle	#NPlc	University	#NU																		
+Walla	#NN	Walla	#NN	University	#NU																
+Washington	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Washington	#NPsn	Seattle	#NPlc	Campus	#NN												
+Western	#JD	Washington	#NPlc	University	#NU																
+Whitman	#NPsn	College	#NU																		
+Whitworth	#NPsn	University	#NU																		
+Appalachian	#NPlc	Bible	#NR	College	#NU																
+Bethany	#NR	College	#NU																		
+Bluefield	#NPlc	State	#NN	University	#NU																
+University	#NU	of	#PR	Charleston	#NPlc																
+Concord	#NR	University	#NU																		
+Davis	#NPsn	&	#CJ	Elkins	#NPsn	College	#NU														
+Fairmont	#NPlc	State	#NN	University	#NU																
+Glenville	#NPlc	State	#NN	University	#NU																
+Marshall	#NPsn	University	#NU																		
+Salem	#NPlc	University	#NU																		
+Shepherd	#NPlc	University	#NU																		
+West	#JD	Virginia	#NPlc	State	#NN	University	#NU														
+West	#JD	Liberty	#NN	University	#NU																
+West	#JD	Virginia	#NPlc	University	#NU	Institute	#NU	of	#PR	Technology	#NN										
+West	#JD	Virginia	#NPlc	Wesleyan	#JR	College	#NU														
+West	#JD	Virginia	#NPlc	University	#NU																
+Wheeling	#NPlc	University	#NU																		
+Alverno	#NPsn	College	#NU																		
+Bellin	#NPsn	College	#NU																		
+Beloit	#NPlc	College	#NU																		
+Carroll	#NPsn	University	#NU																		
+Carthage	#NPlc	College	#NU																		
+Concordia	#NPlc	University	#NU	Wisconsin	#NPlc																
+Edgewood	#NPlc	College	#NU																		
+Lakeland	#NN	University	#NU																		
+Lawrence	#NPsn	University	#NU																		
+Maranatha	#NPlc	Baptist	#NR	University	#NU																
+Marian	#NPsn	University	#NU																		
+Marquette	#NPsn	University	#NU																		
+Milwaukee	#NPlc	Institute	#NU	of	#PR	Art	#NS	&	#CJ	Design	#NS										
+Milwaukee	#NPlc	School	#NU	of	#PR	Engineering	#NS														
+Mount	#NN	Mary	#NPsn	University	#NU																
+Northland	#NPlc	College	#NU																		
+Ripon	#NPlc	College	#NU																		
+Saint	#NPsn	Norbert	#NPsn	College	#NU																
+Viterbo	#NPlc	University	#NU																		
+University	#NU	of	#PR	Wisconsin	#NPlc	Whitewater	#NPlc														
+University	#NU	of	#PR	Wisconsin	#NPlc	Eau	#NN	Claire	#NN												
+University	#NU	of	#PR	Wisconsin	#NPlc	Green	#NN	Bay	#NN												
+University	#NU	of	#PR	Wisconsin	#NPlc	La	#NN	Crosse	#NN												
+Wisconsin	#NPlc	Lutheran	#JR	College	#NU																
+University	#NU	of	#PR	Wisconsin	#NPlc	Oshkosh	#NPlc														
+University	#NU	of	#PR	Wisconsin	#NPlc	Parkside	#NPlc														
+Herzing	#NPsn	University	#NU	Madison	#NPlc																
+University	#NU	of	#PR	Wisconsin	#NPlc	Stout	#NPlc														
+University	#NU	of	#PR	Wisconsin	#NPlc	Superior	#NPlc														
+University	#NU	of	#PR	Wisconsin	#NPlc	Madison	#NPlc														
+University	#NU	of	#PR	Wisconsin	#NPlc	Milwaukee	#NPlc														
+University	#NU	of	#PR	Wisconsin	#NPlc	Platteville	#NPlc														
+University	#NU	of	#PR	Wisconsin	#NPlc	River	#NN	Falls	#NN												
+University	#NU	of	#PR	Wisconsin	#NPlc	Stevens	#NPsn	Point	#NN												
+University	#NU	of	#PR	Wyoming	#NPlc																
+Stanford	#NPsn	University	#NU																		
+Purdue	#NPsn	University	#NU	Main	#NN	Campus	#NN														
+Parker	#NPsn	University	#NU																		
+St.	#NPsn	John's	#NPsn	College	#NU																
+Bais	#NN	Medrash	#NN	Elyon	#NN																
+Mid	#JD	America	#NC	Christian	#JR	University	#NU														
+Landmark	#NN	College	#NU																		
+Yeshiva	#NN	Gedolah	#NN	of	#PR	Greater	#NN	Detroit	#NPlc												
+South	#NN	University	#NU	Columbia	#NPlc																
+Platt	#NPsn	College	#NU	Aurora	#NPlc																
+University	#NU	of	#PR	Massachusetts	#NPlc	Global	#NN														
+New	#JJ	College	#NU	of	#PR	Florida	#NPlc														
+Yeshivah	#NN	Gedolah	#NN	Rabbinical	#NR	College	#NU														
+University	#NU	of	#PR	Advancing	#JS	Technology	#NS														
+South	#NN	Florida	#NPlc	Bible	#NR	College	#NU	and	#CJ	Theological	#NR	Seminary	#NU								
+California	#NPlc	State	#NN	University	#NU	San	#NN	Marcos	#NN												
+Hodges	#NPsn	University	#NU																		
+Nossi	#NN	College	#NU	of	#PR	Art	#NN	&	#CJ	Design	#NN										
+Yeshiva	#NN	Gedolah	#NN	Imrei	#NN	Yosef	#NN	D'spinka	#NN												
+Northwest	#JD	College	#NU	of	#PR	Art	#NN	&	#CJ	Design	#NN										
+University	#NU	of	#PR	Washington	#NPsn	Bothell	#NN	Campus	#NN												
+University	#NU	of	#PR	Washington	#NPsn	Tacoma	#NPlc	Campus	#NN												
+Pacific	#NN	College	#NU	of	#PR	Health	#NN	and	#CJ	Science	#NN										
+Provo	#NPlc	College	#NU																		
+Beacon	#NN	College	#NU																		
+University	#NU	of	#PR	the	#TH	Potomac	#NN	Washington	#NPsn	DC	#NN	Campus	#NN								
+Rabbi	#NN	Jacob	#NPsn	Joseph	#NPsn	School	#NN														
+Everglades	#NPlc	University	#NU																		
+College	#NU	of	#PR	Biblical	#NR	Studies	#NN	Houston	#NPlc												
+Soka	#NN	University	#NU	of	#PR	America	#NC														
+World	#NN	Mission	#NN	University	#NU																
+Schiller	#NPsn	International	#JJ	University	#NU																
+Rabbinical	#NR	College	#NU	of	#PR	Ohr	#NN	Shimon	#NN	Yisroel	#NN										
+Florida	#NPlc	National	#NN	University	#NU	Main	#NN	Campus	#NN												
+California	#NPlc	State	#NN	University	#NU	Monterey	#NN	Bay	#NN												
+Pacific	#NN	College	#NU	of	#PR	Health	#NN	and	#CJ	Science	#NN										
+Trine	#NN	University	#NU	Regional/JJ	Non	#NN	Traditional	#NN	Campuses	#NN											
+Messenger	#NN	College	#NU																		
+Yeshiva	#NN	D'monsey	#NN	Rabbinical	#NR	College	#NU														
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NN	Tempe	#NPlc												
+Embry	#NN	Riddle	#NPsn	Aeronautical	#JS	University	#NU	Worldwide	#NN												
+Strayer	#NPsn	University	#NU	Maryland	#NPlc																
+Yeshiva	#NN	of	#PR	the	#TH	Telshe	#NN	Alumni	#NN												
+American	#JC	University	#NU	of	#PR	Health	#NN	Sciences	#NN												
+California	#NPlc	Aeronautical	#JS	University	#NU																
+Herzing	#NPsn	University	#NU	New	#NN	Orleans	#NPlc														
+Florida	#NPlc	Gulf	#NN	Coast	#NN	University	#NU														
+Yeshiva	#NN	College	#NU	of	#PR	the	#TH	Nations	#NN	Capital	#NN										
+Los	#NN	Angeles	#NPlc	Film	#NN	School	#NN														
+International	#JJ	Baptist	#JR	College	#NU	and	#CJ	Seminary	#NU												
+University	#NU	of	#PR	Connecticut	#NPlc	Waterbury	#NPlc	Campus	#NN												
+University	#NU	of	#PR	Connecticut	#NPlc	Avery	#NN	Point	#NN												
+University	#NU	of	#PR	Connecticut	#NPlc	Stamford	#NPlc														
+University	#NU	of	#PR	Management	#NN	and	#CJ	Technology	#NN												
+American	#JC	InterContinental	#JJ	University	#NU	Atlanta	#NPlc														
+The	#TH	King's	#NN	University	#NU																
+Pillar	#NN	College	#NU																		
+Oregon	#NPlc	State	#NN	University	#NU	Cascades	#NN	Campus	#NN												
+Yeshiva	#NN	Shaarei	#NN	Torah	#NN	of	#PR	Rockland	#NN												
+Nevada	#NPlc	State	#NN	University	#NU																
+California	#NPlc	State	#NN	University	#NU	Channel	#NN	Islands	#NN												
+Franklin	#NPsn	W	#NN	Olin	#NPsn	College	#NU	of	#PR	Engineering	#NN										
+University	#NU	of	#PR	the	#TH	Potomac	#NN	VA	#NN	Campus	#NN										
+Faith	#NN	International	#JJ	University	#NU																
+Family	#NN	of	#PR	Faith	#NN	Christian	#JR	University	#NU												
+West	#JD	Coast	#NN	University	#NU	Los	#NN	Angeles	#NPlc												
+Williamson	#NPsn	Christian	#JR	College	#NU																
+DigiPen	#NN	Institute	#NU	of	#PR	Technology	#NN														
+Strayer	#NPsn	University	#NU	Tennessee	#NPlc																
+Strayer	#NPsn	University	#NU	Pennsylvania	#NPlc																
+Brookline	#NN	College	#NU	Albuquerque	#NPlc																
+Baptist	#NR	University	#NU	of	#PR	the	#TH	Americas	#NN												
+Beis	#NN	Medrash	#NN	Heichal	#NN	Dovid	#NN														
+Charlotte	#NPlc	Christian	#JR	College	#NU	and	#CJ	Theological	#NR	Seminary	#NU										
+Nightingale	#NPsn	College	#NU																		
+American	#JC	InterContinental	#JJ	University	#NU	Houston	#NPlc														
+University	#NU	of	#PR	California	#NPlc	Merced	#NPlc														
+Central	#JD	Methodist	#JR	University	#NU	College	#NU	of	#PR	Graduate	#NN	and	#CJ	Extended	#NN	Studies	#NN				
+Neumont	#NN	College	#NU	of	#PR	Computer	#NN	Science	#NN												
+Ave	#NN	Maria	#NN	University	#NU																
+Ecclesia	#NN	College	#NU																		
+Los	#NN	Angeles	#NPlc	College	#NU	of	#PR	Music	#NN												
+Uta	#NN	Mesivta	#NN	of	#PR	Kiryas	#NN	Joel	#NN												
+Harrisburg	#NPlc	University	#NU	of	#PR	Science	#NS	and	#CJ	Technology	#NS										
+United	#NN	States	#NN	University	#NU																
+Eagle	#NN	Gate	#NN	College	#NU	Layton	#NPlc														
+Georgia	#NPlc	Gwinnett	#NPlc	College	#NU																
+SUM	#NN	Bible	#NR	College	#NU	and	#CJ	Theological	#NR	Seminary	#NU										
+Strayer	#NPsn	University	#NU	Florida	#NPlc																
+Huntsville	#NPlc	Bible	#NR	College	#NU																
+Gnomon	#NN																				
+Bais	#NN	Medrash	#NN	Toras	#NN	Chesed	#NN														
+University	#NU	of	#PR	the	#TH	West	#JD														
+South	#NN	University	#NU	Tampa	#NPlc																
+Strayer	#NPsn	University	#NU	Alabama	#NPlc																
+Miami	#NPlc	Regional	#NN	University	#NU																
+Yeshivas	#NN	Be'er	#NN	Yitzchok	#NN																
+Yeshiva	#NN	Toras	#NN	Chaim	#NN																
+Talmudical	#NR	Seminary	#NU	of	#PR	Bobov	#NN														
+Strayer	#NPsn	University	#NU	North	#NN	Carolina	#NPlc														
+Chamberlain	#NPsn	University	#NU	Illinois	#NPlc																
+Chamberlain	#NPsn	University	#NU	Ohio	#NPlc																
+Chamberlain	#NPsn	University	#NU	Arizona	#NPlc																
+Aspen	#NN	University	#NU																		
+Yeshiva	#NN	of	#PR	Machzikai	#NN	Hadas	#NN														
+The	#TH	Chicago	#NPlc	School	#NN	at	#PR	Los	#NN	Angeles	#NPlc										
+Providence	#NPlc	Christian	#JR	College	#NU																
+Polytechnic	#JS	University	#NU	of	#PR	Puerto	#NN	Rico	#NN	Miami	#NPlc										
+Polytechnic	#JS	University	#NU	of	#PR	Puerto	#NN	Rico	#NN	Orlando	#NPlc										
+University	#NU	of	#PR	Minnesota	#NPlc	Rochester	#NPlc														
+Chamberlain	#NPsn	University	#NU	Florida	#NPlc																
+University	#NU	of	#PR	Fort	#NN	Lauderdale	#NPlc														
+Pacific	#NN	Rim	#NN	Christian	#JR	University	#NU														
+Ascent	#NN	College	#NU																		
+West	#JD	Coast	#NN	University	#NU	Orange	#NN	County	#NN												
+West	#JD	Coast	#NN	University	#NU	Ontario	#NPlc														
+Strayer	#NPsn	University	#NU	Georgia	#NPlc																
+Strayer	#NPsn	University	#NU	South	#NN	Carolina	#NPlc														
+Strayer	#NPsn	University	#NU	Texas	#NPlc																
+South	#NN	University	#NU	Richmond	#NPlc																
+South	#NN	University	#NU	Virginia	#NPlc	Beach	#NN														
+Touro	#NPsn	University	#NU	Worldwide	#NN																
+Herzing	#NPsn	University	#NU	Kenosha	#NPlc																
+Texas	#NPlc	A	#NN	&	#CJ	M	#NN	University	#NU	San	#NN	Antonio	#NPlc								
+Strayer	#NPsn	University	#NU	Global	#NN	Region	#NN														
+Chamberlain	#NPsn	University	#NU	Virginia	#NPlc																
+Carolina	#NPlc	College	#NU	of	#PR	Biblical	#NR	Studies	#NN												
+New	#NN	York	#NPlc	Film	#NN	Academy	#NU														
+Manna	#NN	University	#NU																		
+Simmons	#NPsn	College	#NU	of	#PR	Kentucky	#NPlc														
+North	#JD	American	#JC	University	#NU																
+Keser	#NN	Torah	#NN	Mayan	#NN	Hatalmud	#NN														
+Millennia	#NN	Atlantic	#NN	University	#NU																
+John	#NPsn	Paul	#NPsn	the	#TH	Great	#JJ	Catholic	#JR	University	#NU										
+University	#NU	of	#PR	Connecticut	#NPlc	Hartford	#NPlc	Campus	#NN												
+Ottawa	#NPlc	University	#NU	Surprise	#NN																
+Chamberlain	#NPsn	University	#NU	Missouri	#NPlc																
+Chamberlain	#NPsn	University	#NU	Texas	#NPlc																
+Criswell	#NPsn	College	#NU																		
+Chamberlain	#NPsn	University	#NU	Georgia	#NPlc																
+Chamberlain	#NPsn	University	#NU	Indiana	#NPlc																
+Bais	#NN	HaMedrash	#NN	and	#CJ	Mesivta	#NN	of	#PR	Baltimore	#NPlc										
+Yeshiva	#NN	Gedolah	#NN	Zichron	#NN	Leyma	#NN														
+Be'er	#NN	Yaakov	#NN	Talmudic	#NR	Seminary	#NU														
+West	#JD	Coast	#NN	University	#NU	Dallas	#NPlc														
+Pennsylvania	#NPlc	State	#NN	University	#NU	World	#NN	Campus	#NN												
+South	#NN	University	#NU	Austin	#NPlc																
+California	#NPlc	Miramar	#NN	University	#NU																
+Grace	#NN	Mission	#NN	University	#NU																
+Mid	#NN	South	#NN	Christian	#JR	College	#NU														
+Grace	#NN	School	#NN	of	#PR	Theology	#NN														
+Yeshiva	#NN	Gedolah	#NN	Kesser	#NN	Torah	#NN														
+Yeshiva	#NN	Yesodei	#NN	Hatorah	#NN																
+South	#NN	University	#NU	High	#NN	Point	#NN														
+Augusta	#NPlc	University	#NU																		
+Middle	#JD	Georgia	#NPlc	State	#NN	University	#NU														
+DeVry	#NPsn	College	#NU	of	#PR	New	#NN	York	#NPlc												
+DeVry	#NPsn	University	#NU	Arizona	#NPlc																
+DeVry	#NPsn	University	#NU	California	#NPlc																
+DeVry	#NPsn	University	#NU	Florida	#NPlc																
+DeVry	#NPsn	University	#NU	Georgia	#NPlc																
+DeVry	#NPsn	University	#NU	Nevada	#NPlc																
+DeVry	#NPsn	University	#NU	New	#NN	Jersey	#NPlc														
+DeVry	#NPsn	University	#NU	Ohio	#NPlc																
+DeVry	#NPsn	University	#NU	Texas	#NPlc																
+DeVry	#NPsn	University	#NU	Virginia	#NPlc																
+University	#NU	of	#PR	North	#JD	Georgia	#NPlc														
+Florida	#NPlc	Polytechnic	#JS	University	#NU																
+Antioch	#NPlc	College	#NU																		
+Texas	#NPlc	A	#NN	&	#CJ	M	#NN	University	#NU	Central	#JD	Texas	#NPlc								
+Ana	#NN	G.	#NN	Mendez	#NPsn	University	#NU														
+Washington	#NPsn	University	#NU	of	#PR	Science	#NN	and	#CJ	Technology	#NN										
+University	#NU	of	#PR	Phoenix	#NPlc	Arizona	#NPlc														
+Rabbinical	#NR	College	#NU	Ohr	#NN	Yisroel	#NN														
+University	#NU	of	#PR	North	#JD	Texas	#NPlc	at	#PR	Dallas	#NPlc										
+West	#JD	Coast	#NN	University	#NU	Miami	#NPlc														
+American	#JC	College	#NU	of	#PR	the	#TH	Building	#NN	Arts	#NN										
+Atlantis	#NN	University	#NU																		
+Bet	#NN	Medrash	#NN	Gadol	#NN	Ateret	#NN	Torah	#NN												
+Yeshiva	#NN	Ohr	#NN	Yisrael	#NN																
+Yeshiva	#NN	Sholom	#NN	Shachna	#NN																
+San	#NN	Ignacio	#NN	University	#NU																
+Bethany	#NN	Global	#NN	University	#NU																
+California	#NPlc	Jazz	#NN	Conservatory	#NU																
+Kennesaw	#NPlc	State	#NN	University	#NU																
+Milligan	#NPsn	University	#NU																		
+Chamberlain	#NPsn	University	#NU	Nevada	#NPlc																
+Chamberlain	#NPsn	University	#NU	Michigan	#NPlc																
+Chamberlain	#NPsn	University	#NU	New	#NN	Jersey	#NPlc														
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NN	Las	#NN	Vegas	#NPlc										
+Husson	#NPsn	University	#NU																		
+Northwest	#JD	University	#NU	Center	#NN	for	#PR	Online	#NN	and	#CJ	Extended	#NN	Education	#NN						
+Yeshiva	#NN	Zichron	#NN	Aryeh	#NN																
+Beth	#NN	Medrash	#NN	of	#PR	Asbury	#NN	Park	#NN												
+Seattle	#NPlc	Film	#NN	Institute	#NU																
+Indiana	#NPlc	Wesleyan	#JR	University	#NU	National	#NN	&	#CJ	Global	#NN										
+John	#NPsn	Patrick	#NPsn	University	#NU	of	#PR	Health	#NN	and	#CJ	Applied	#NN	Sciences	#NN						
+University	#NU	of	#PR	Saint	#NPsn	Katherine	#NN														
+Chamberlain	#NPsn	University	#NU	North	#NN	Carolina	#NPlc														
+Chamberlain	#NPsn	University	#NU	California	#NPlc																
+Purdue	#NPsn	University	#NU	Global	#NN																
+Carolina	#NPlc	University	#NU																		
+Presbyterian	#JR	Theological	#JS	Seminary	#NU	in	#PR	America	#NC												
+America	#NC	Evangelical	#JR	University	#NU																
+Westcliff	#NN	University	#NU																		
+Reformed	#JR	University	#NU																		
+Yeshiva	#NR	Bais	#NR	Aharon	#NR																
+Mechon	#NR	L'hoyroa	#NR																		
+Purdue	#NPsn	University	#NU	Northwest	#JD																
+Yeshiva	#NR	Kollel	#NR	Tifereth	#NR	Elizer	#NR														
+The	#TH	Chicago	#NPlc	School	#NU	at	#PR	San	#NPlc	Diego	#NPlc										
+Yeshiva	#NR	Gedolah	#NR	Tiferes	#NR	Boruch	#NR														
+Women's	#NN	Institute	#NU	of	#PR	Torah	#NR	Seminary	#NU	and	#CJ	College	#NU								
+Yeshiva	#NR	Gedolah	#NR	of	#PR	Cliffwood	#NPlc														
+Yeshivas	#NR	Emek	#NR	Hatorah	#NR																
+Champion	#NN	Christian	#JR	College	#NU																
+The	#TH	Chicago	#NPlc	School	#NU	at	#PR	Dallas	#NPlc												
+Chamberlain	#NPsn	University	#NU	Louisiana	#NPlc																
+Drury	#NPsn	University	#NU	College	#NU	of	#PR	Continuing	#JJ	Professional	#JS	Studies	#NN								
+Indiana	#NPlc	Institute	#NU	of	#PR	Technology	#JS	College	#NU	of	#PR	Professional	#JS	Studies	#NN						
+Congregation	#NR	Talmidei	#NR	Mesivta	#NR	Tiferes	#NR	Shmiel	#NR	Aleksander	#NR										
+College	#NU	Unbound	#JJ																		
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NS	Dallas	#NPlc												
+Christ	#NR	Mission	#NR	College	#NU																
+Urshan	#NPsn	College	#NU																		
+Yeshiva	#NR	Yesoda	#NR	Hatorah	#NR	Vetz	#NR	Chaim	#NR												
+Oak	#NN	Valley	#NN	College	#NU																
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NS	Tampa	#NPlc												
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NS	Fort	#NPlc	Lauderdale	#NPlc										
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NS	Tucson	#NPlc												
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NS	Phoenix	#NPlc												
+Eagle	#NN	Gate	#NN	College	#NU	Boise	#NPlc	Campus	#NU												
+Great	#JJ	Northern	#JD	University	#NU																
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NS	Salt	#NPlc	Lake	#NPlc	City	#NPlc								
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NS	Southfield	#NPlc												
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NS	Falls	#NPlc	Church	#NPlc										
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NS	Ontario	#NPlc												
+Commonwealth	#NN	University	#NU	of	#PR	Pennsylvania	#NPlc														
+Pennsylvania	#NPlc	Western	#JD	University	#NU																
+Yeshiva	#NR	of	#PR	Kasho	#NR																
+Yeshivas	#NR	Sanz	#NR	Klauzenburg	#NR																
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NS	Sarasota	#NPlc												
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NS	Aurora	#NPlc												
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NS	Cincinnati	#NPlc												
+Arizona	#NPlc	College	#NU	of	#PR	Nursing	#NS	Cleveland	#NPlc												

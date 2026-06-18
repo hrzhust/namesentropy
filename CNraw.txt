@@ -1,0 +1,1354 @@
+Anhui University of Chinese Medicine        
+Anhui Wenda University of Information Engineering       
+Anhui International Studies University         
+Anhui University of Arts         
+Anhui Police College          
+Anhui Vocational and Technical University        
+Anhui Second Medical College         
+Anyang College           
+Applied Technology College of Soochow University       
+Applied Technology College of Hunan Institute of Engineering     
+Baode College of Tianjin University of Commerce      
+Baoding Institute of Science and Technology       
+Beibu Gulf University          
+Beihai College of Beihang University        
+Beijing University of Financial Technology        
+Beijing Police College          
+Beijing Science and Technology Vocational University       
+Beijing Normal University Zhuhai         
+Beijing Institute of Technology Zhuhai        
+Beijing Normal University Hong Kong Baptist University United International College   
+Bengbu Medical University          
+Bengbu Business College          
+Binhai Foreign Affairs College of Tianjin Foreign Studies University    
+Binjiang College of Zhejiang Chinese Medical University      
+Boda College of Jilin Normal University       
+Business College of Jiangxi Agricultural University       
+Cangzhou Jiaotong College          
+Central Academy of Fine Arts        
+Central Academy of Drama         
+Central Institute for Correctional Police        
+Century College of Beijing University of Posts and TeleCommunications    
+Chang'an University           
+Chang'an College of Xidian University        
+Changchun Institute of Engineering         
+Changchun Guanghua College          
+Changchun Institute of Electronic Technology        
+Changchun Humanities and Sciences College        
+Changchun Automobile Industry College         
+Changchun Vocational and Technical University        
+Changde College           
+Changsha Industrial College          
+Changsha College of Science and Technology       
+Chaoyang Normal College          
+Chengdu University of Traditional Chinese Medicine       
+Chengdu Institute of Technology         
+Chengdu Art Vocational University         
+Chengdu College of University of Electronic Science and Technology of China  
+Chengdu University of Technology Engineering Technical College      
+Chengdu Yinxing Hospitality Management College        
+Chengdu International Studies University         
+Chengdu Jincheng College          
+Chengdu Aeronautic Polytechnic          
+Chengnan College of Changsha University of Science and Technology    
+Chengxian College of SouthEast University        
+Chengyi College of Jimei University        
+China Fire and Rescue Institute        
+China Women University          
+China University of Mining Technology Beijing       
+China University of Petroleum Beijing        
+China Criminal Police College         
+China University of Petroleum East China       
+China Three Gorges University         
+Chinese People's Police University         
+Chongqing Three Gorges University         
+Chongqing Vocational and Technical University of Mechatronics      
+Chongqing Metropolitan College of Science and Technology      
+Chongqing Police College          
+Chongqing Institute of Foreign Studies and International Relations     
+Chongqing College of International Business and Economics      
+Chongqing College of Finance and Economics       
+Chongqing College of Mobile Communications        
+Chongqing Second Normal University         
+Chongqing College of Traditional Chinese Medicine       
+Chongqing College of Electronic Engineering        
+Chongqing Industrial Polytechnic College         
+Chuanshan College of University of South China      
+City College of Dalian University of Technology      
+City University of Hong Kong Dongguan       
+City College of Xi'an Jiaotong University       
+Civil Affairs Vocational University         
+Clinical Medical College of Tianjin Medical University      
+Clinical College of Hebei Medical University       
+Clinical Medical College of Anhui Medical University      
+College of Economics and Management of Hebei University of Economics and Business 
+College of Humanities and Information of Changchun University of Technology   
+College of Science and Technology of Ningbo University     
+College of Science and Technology and Art of Zhejiang Sci-Tech University  
+College of Modern Science and Technology of China Jiliang University   
+College of Science and Technology of China Three Gorges University   
+College of Post and TeleCommunications of Wuhan Institute of Technology   
+College of Foreign Economics and Trade of Wuhan Textile University   
+College of Arts and Sciences of Yangtze University     
+College of Science and Technology of Hubei University of Automotive Technology  
+College of Medicine and Nursing of Hubei University of Medicine   
+College of Arts and Sciences of Hubei Normal University    
+College of New Technology of Hubei Engineering University     
+College of Science and Technology of Hunan University of Technology   
+College of High Technology of Xi'an University of Technology    
+College of New Science and Technology of Xi'an University of Science and Technology
+College of Science and Technology of Xinjiang Agricultural University    
+Communication University of China Nanjing        
+Concord College of Fujian Normal University       
+Dalian Minzu University          
+Dalian Polytechnic University Art and Information Engineering College     
+Dalian Institute of Science and Technology       
+Dehong Teachers College          
+Dianchi College of Yunnan University        
+Dongchang College of Liaocheng University        
+Dongfang College of Zhejiang University of Finance and Economics    
+Dongfang College of Shandong University of Finance and Economics    
+Dongguan City College          
+East Jiangxi College          
+Engineering and Technology College of Hubei University of Technology    
+Fujian University of Traditional Chinese Medicine       
+Fujian Police College          
+Fujian AgriCulture and Forestry University Jinshan College      
+Fujian Polytechnic Normal University         
+Fujian Fuyao University of Science and Technology      
+Fuyang Institute of Technology         
+Fuzhou Business College of Technology        
+Fuzhou University Zhicheng College         
+Fuzhou College of Foreign Studies and Trade      
+Fuzhou Medical College          
+Gannan Science and Technology College        
+Gansu University of Chinese Medicine        
+Gansu University of Political Science and Law      
+Gansu Police College          
+Gansu Forestry Polytechnic College         
+Gansu Industrial Polytechnic College         
+Geely University of China         
+Gengdan Institute of Beijing University of Technology      
+Gongqing College of Nanchang University        
+Great Bay University          
+Guangdong Police College          
+Guangdong Petrochemical Institute          
+Guangdong Neusoft Institute          
+Guangdong Technology College          
+Guangdong Vocational and Technical College of Business      
+Guangdong Second Normal University         
+Guangdong Technion-Israel Institute of Technology        
+Guangling College of Yangzhou University        
+Guangxi University of Chinese Medicine        
+Guangxi Police College          
+Guangxi Agricultural Vocational and Technical University       
+Guangxi International Studies University         
+Guangxi City Vocational University         
+Guangxi Vocational Normal University         
+Guangzhou University of Chinese Medicine        
+Guangzhou Maritime College          
+Guangzhou City University of Technology        
+Guangzhou Software Institute          
+Guangzhou Southern College          
+Guangzhou Huashang College          
+Guangzhou Institute of Technology         
+Guangzhou Huali College          
+Guangzhou College of Applied Science and Technology      
+Guangzhou Business College          
+Guangzhou College of Technology and Business       
+Guangzhou Vocational and Technical University of Science and Technology    
+Guangzhou Xinhua College          
+Guangzhou Polytechnic University          
+Guilin University           
+Guilin Institute of Information Technology        
+Guilin Normal University          
+Guiyang College of Information Science and Technology      
+Guiyang College of Humanities and Science       
+Guiyang Kangyang Vocational University         
+Guizhou University of Traditional Chinese Medicine       
+Guizhou Police College          
+Guizhou University of Traditional Chinese Medicine Shizhen College     
+Guizhou Qiannan College of Economics        
+Guizhou Qiannan College of Science and Technology      
+Guizhou Normal College          
+Guizhou Communications Polytechnic          
+Guizhou Light Industry Polytechnic University        
+Haidu College of Qingdao Agricultural University       
+Haihua College of Liaoning Normal University       
+Haikou University of Economics         
+Hainan Vocational and Technical University of Science and Technology    
+Hainan Bielefeld University of Applied Sciences       
+Hainan Police College          
+Hainan Lausanne College of Hospitality Management       
+Hangzhou City University          
+Hangzhou College of Commerce of Zhejiang Gongshang University     
+Hangzhou Polytechnic University          
+Hanlin College of Nanjing University of Chinese Medicine     
+Haojing College of Shaanxi University of Science and Technology    
+Harbin Information Engineering College         
+Harbin Petroleum College          
+Harbin Far East Institute of Technology       
+Harbin Guangsha College          
+Harbin Vocational and Technical University        
+HBAU Modern Science and Technology College       
+He Shi Medical College of Liaoning       
+Hebei University of Water Resources and Electric Power     
+Hebei Agricultural University          
+Hebei Institute of Communications         
+Hebei University of Engineering and Technology       
+Hebei Science and Technology College        
+Hebei International Studies University         
+Hebei Vocational University of Industry and Technology      
+Hebei Vocational University of Science and Technology      
+Hebei University of Chinese Medicine        
+Hefei Technology College          
+Hefei City College          
+Hefei Economics College          
+Heilongjiang University of Chinese Medicine        
+Heilongjiang University of Engineering         
+Heilongjiang University of Business and Technology       
+Henan University of Traditional Chinese Medicine       
+Henan Medical University          
+Henan University of Finance and Economics       
+Henan Police College          
+Henan Kaifeng College of Science and Media      
+Henan Vocational University of Science and Technology      
+Henan Institute of Sport         
+Hohhot Minzu College          
+Hohhot Vocational and Technical University        
+Hong Kong University of Science and Technology Guangzhou     
+Hongshan College of Nanjing University of Finance and Economics    
+Hope College of Southwest Jiaotong University       
+Huaide College of Changzhou University        
+Huanghe Jiaotong College          
+Huaqing College of Xi'an University of Architecture and Technology    
+Huashang College of Shanxi University of Finance and Economics    
+Huaxin College of Hebei GEO University       
+Hubei University of Chinese Medicine        
+Hubei Police College          
+Hubei Enshi College          
+Hubei Second Normal University         
+Hubei Three Gorges Aviation College        
+Huihua College of Hebei Normal University       
+Hunan University of Traditional Chinese Medicine       
+Hunan University of Technology and Commerce       
+Hunan Police Academy          
+Hunan Institute of Applied Technology        
+Hunan Automotive Engineering Vocational University        
+Huzhou College           
+Information Engineering College of Hangzhou Dianzi University      
+Inner Mongolia University          
+Inner Mongolia University of Science and Technology      
+Inner Mongolia University of Technology        
+Inner Mongolia Agricultural University         
+Inner Mongolia Medical University         
+Inner Mongolia Normal University         
+Inner Mongolia University for the Nationalities       
+Inner Mongolia University of Finance and Economics      
+Inner Mongolia University College of Entrepreneurship       
+Inner Mongolia Hongde College         
+Inner Mongolia Arts University         
+Inner Mongolia Police College         
+Inner Mongolia Vocational and Technical College of Architecture     
+Institute of Disaster Prevention         
+Institute of Technology of Hubei University of Arts and Science   
+International College of Central South University of Forestry and Technology   
+Jiangsu Police Institute          
+Jiangsu Ocean University          
+Jiangxi University of Traditional Chinese Medicine       
+Jiangxi University of Water Resources and Electric Power     
+Jiangxi Police College          
+Jiangxi Engineering College          
+Jiangxi Institute of Applied Technology        
+Jiangxi Software Vocational and Technical University       
+Jiangxi Flight University          
+Jiangxi Vocational and Technical University        
+Jiaxing Nanhu College          
+Jilin International Studies University         
+Jilin Police College          
+Jilin University of Architecture and Technology       
+Jilin Medical College          
+Jilin Railway Technology College         
+Jincheng College of Nanjing University of Aeronautics and Astronautics    
+Jingdezhen Ceramic University          
+Jingdezhen College           
+Jingdezhen Art Vocational University         
+Jingjiang College of Jiangsu University        
+Jingu College of Tianjin Normal University       
+Jingzhou College           
+Jinhua Polytechnic University          
+Jinling College of Nanjing University        
+Jinshen College of Nanjing Audit University       
+Jinzhong Information College          
+Jinzhong College of Shanxi         
+Jinzhong Health College          
+Jitang College of North China University of Science and Technology   
+Jiujiang Vocational and Technical University of Science and Technology    
+Jiuquan Vocational and Technical College        
+Jiyang College of Zhejiang A&F University       
+Kangda College of Nanjing Medical University       
+Kashgar University           
+Kede College of Capital Normal University       
+Kewen College of Jiangsu Normal University       
+Kexin College of Hebei University of Engineering      
+Kunlun Tourism College of Heilongjiang University of Engineering     
+Kunlun College of Qinghai University        
+Kunming City College          
+Kunming College of Arts and Sciences       
+Kunming Medical University Haiyuan College        
+Kunming Media College          
+Lanzhou Petrochemical College of Vocational Technology       
+Lanzhou College of Commerce         
+Lanzhou Resources and Environment Vocational and Technical University     
+Lanzhou Bowen College of Science and Technology      
+Lanzhou Institute of Information Technology        
+Law and Business College of Hubei University of Economics    
+Lhasa Teachers College          
+Lianyungang Teachers College          
+Liaoning University of Traditional Chinese Medicine       
+Liaoning Police College          
+Liaoning Vocational University of Technology        
+Liaoning Institute of Technology         
+Liaoning University of Finance and Trade       
+Ligong College of North China University of Science and Technology   
+Lijiang Culture and Tourism College        
+Lijiang Teachers College          
+Liming Vocational University          
+Liren College of Yanshan University        
+Liuzhou Institute of Technology         
+Liuzhou Vocational and Technical University        
+Longnan Teachers College          
+L¨¹liang University           
+Luohe Food Engineering Vocational University        
+Luoyang Institute of Technology         
+Maanshan University           
+Medical College of Jinzhou Medical University       
+Medical and Technology College of Zunyi Medical University     
+Mianyang Teachers College          
+Mianyang City College          
+Mingde College of Northwestern Polytechnical University       
+Minnan Science and Technology College        
+Miracle Ethnic Medicine College of Guizhou Medical University     
+Modern Science and Technology College of Hebei Agricultural University    
+Modern College of Northwest University        
+Moutai University           
+Nanchang Hangkong University          
+Nanchang Vocational University          
+Nanchang Jiaotong College          
+Nanchang Medical College          
+Nanchang Institute of Applied Technology Teachers       
+Nanjing University of Technology         
+Nanjing University of Chinese Medicine        
+Nanjing Vocational Institute of Technology        
+Nanjing Normal University of Special Education       
+Nanjing Police College          
+Nankai University Binhai College         
+Nanning Normal University          
+Nanning College of Technology         
+Nanning Vocational and Technical University        
+Nantong Institute of Technology         
+Nanyue College of Hengyang Normal University       
+National Academy of Chinese Theatre Arts       
+New York University Shanghai         
+Ningbo Tech University          
+Ningbo Polytechnic University          
+Ningbo Eastern Institute of Technology        
+Ningxia Vocational and Technical College of Industry and Commerce    
+North China University of Water Resources and Electric Power    
+North Minzu University          
+Northern Science and Technology College of Shenyang Aerospace University    
+Northwest University of Political Science and Law      
+Northwest Minzu University          
+Orient Science and Technology College of Hunan Agricultural University    
+Oriental College of Beijing University of Chinese Medicine     
+Oxbridge College of Kunming University of Science and Technology    
+Pass College of Chongqing Technology and Business University     
+People's Public Security University         
+Petroleum College of Hebei         
+Pu'er University           
+Pujiang College of Nanjing Tech University       
+Qianjiang College of Hangzhou Normal University       
+Qiannan Normal University for Nationalities        
+Qilu Medical College          
+Qingdao City University          
+Qingdao Institute of Technology         
+Qingdao Film Academy          
+Qinghai Institute of Technology         
+Qinghai Vocational and Technical University        
+Qiqihar Medical College          
+Quanzhou Vocational and Technical University        
+Qujing Medical College          
+Rehabilitation University           
+Renji College of Wenzhou Medical University       
+School of Engineering of Shenyang University of Technology     
+School of Science and Technology of Nanchang University     
+School of Science and Technology of Nanchang Hangkong University    
+School of Science and Technology of Jiangxi Normal University    
+School of Science and Technology of Gannan Normal University    
+School of Modern Economics and Management of Jiangxi University of Finance and Economics
+Science and Technology New Medical College of Guangxi University of Chinese Medicine 
+Shaanxi University of Chinese Medicine        
+Shaanxi Police College          
+Shaanxi AgriCulture and Forestry Vocational and Technical University     
+Shaanxi Polytechnic Institute          
+Shandong Second Medical University         
+Shandong First Medical University         
+Shandong University of Traditional Chinese Medicine       
+Shandong University of Aeronautics         
+Shandong Police College          
+Shandong University of Technology and Business       
+Shandong Modern University          
+Shandong Engineering Vocational and Technical University       
+Shandong Petrochemical College          
+Shandong Foreign Languages Vocational and Technical University      
+Shandong Foreign Affairs Vocational University        
+Shandong University of Management         
+Shanghai Jiao Tong University         
+Shanghai University of Traditional Chinese Medicine       
+Shanghai Customs College          
+Shanghai Police College          
+Shanghai Sanda University          
+Shanghai Lida College          
+Shanghai Zhongqiao Vocational and Technical University       
+Shangqiu College           
+Shanxi University of Chinese Medicine        
+Shanxi Police College          
+Shanxi Institute of Applied Science and Technology      
+Shanxi Vocational University of Engineering Science and Technology     
+Shanxi Institute of Technology         
+Shanxi Electronic Science and Technology College       
+Shanxi Business College          
+Shanxi Media College          
+Shanxi Vocational and Technical College of Engineering      
+Shanxi Energy College          
+Shanxi Medical College          
+Shanxi Culture Tourism Vocational University        
+Shaoxing College of Arts and Sciences       
+Shenyang College of Science and Technology       
+Shenzhen Technology University          
+Shenzhen Polytechnic University          
+Shenzhen Institute of Technology         
+Shenzhen Institute of Information Technology        
+Shiyuan College of Nanning Normal University       
+Shunde Polytechnic University          
+Sichuan University of Science & Engineering       
+Sichuan Police College          
+Sichuan Technology and Business University        
+Sichuan University Jinjiang College         
+Sichuan Engineering Technical College         
+Sifang College of Shijiazhuang Tiedao University       
+South China Business College of GDUFS       
+Southern University of Science and Technology       
+Southwest Minzu University          
+Sports Science and Technology College of Wuhan Sports University    
+Sun Yat-sen University          
+Suzhou City University          
+Suzhou Institute of Technology of Jiangsu University of Science and Technology  
+Suzhou Vocational and Technical University        
+Taishan College of Science and Technology       
+Taizhou College of Nanjing University of Science and Technology    
+Taizhou College of Nanjing Normal University       
+Tarim Institute of Technology         
+The Chinese University of Hong Kong Shenzhen      
+Tianfu College of Southwestern University of Finance and Economics    
+Tianhua College of Shanghai Normal University       
+Tianjin University of Traditional Chinese Medicine       
+Tianjin Vocational and Technical Normal University       
+Tianjin Sino-German University of Applied Sciences       
+Tianjin College of Media and Arts       
+Tianjin College of Beijing University of Science and Technology    
+Tianjin Renai College          
+Tianjin Police College          
+Tianping College of Suzhou University of Science and Technology    
+Tianshi College           
+Tibet Agricultural and Animal Husbandry University       
+Tibet Minzu University          
+Tibet University of Traditional Tibetan Medicine       
+Tongda College of Nanjing University of Posts and TeleCommunications    
+Tongren Polytechnic University          
+Tourism College of Changchun University        
+University of the Chinese Academy of Social Sciences     
+University of Nottingham Ningbo China        
+Urumqi Vocational University          
+Wanjiang College of Engineering         
+Weifang Institute of Technology         
+Wenhua College           
+Wenzhou College of Technology         
+Wenzhou Kean University          
+Westlake University           
+Wuchang Shouyi College          
+Wuchang College of Technology         
+Wuhan University of Bioengineering         
+Wuhan City College          
+Wuhan College of Arts and Sciences       
+Wuhan Vocational and Technical University        
+Wuhu College           
+Wuhu Vocational and Technical University        
+Wuwei Vocational and Technical College        
+Wuxi Taihu College          
+Wuxi University           
+Wuxi Vocational and Technical University        
+Xi'an Jiaotong Liverpool University         
+Xi'an Jiaotong University          
+Xi'an University of Technology         
+Xi'an Polytechnic University          
+Xi'an University of Architecture and Technology       
+Xi'an University of Science and Technology       
+Xi'an Shiyou University          
+Xi'an Polytechnic University          
+Xi'an International Studies University         
+Xi'an Physical Education University         
+Xi'an Conservatory of Music         
+Xi'an Academy of Fine Arts        
+Xi'an University           
+Xi'an Peihua University          
+Xi'an University of Finance and Economics       
+Xi'an University of Posts and TeleCommunications       
+Xi'an Aeronautical University          
+Xi'an Medical University          
+Xi'an Eurasia University          
+Xi'an International University          
+Xi'an Fanyi University          
+Xi'an Siyuan University          
+Xi'an Traffic Engineering Institute         
+Xi'an Technology and Business College        
+Xi'an Innovation College of Yan'an University       
+Xi'an Automobile Vocational University         
+Xi'an Vocational University of Information        
+Xi'an Drama College          
+Xiamen Medical College          
+Xiamen Institute of Technology         
+Xiamen Tan Kah Kee College        
+Xian College of Shanghai International Studies University      
+Xiangsihu College of Guangxi University for Nationalities      
+Xiangtan University           
+Xiangtan Institute of Technology         
+Xiangxing College of Hunan University of Traditional Chinese Medicine    
+Xiaoxiang College of Hunan University of Science and Technology    
+Xichang University           
+Xing'an Vocational and Technical University        
+Xinghua College of Chang'an University        
+Xinglin College of Liaoning University of Traditional Chinese Medicine    
+Xinglin College of Nantong University        
+Xingtai Medical College          
+Xingxiang College of Xiangtan University        
+Xingzhi College of Zhejiang Normal University       
+Xingzhi College of Xi'an University of Finance and Economics    
+Xinhua College of Ningxia University        
+Xinjiang Police College          
+Xinjiang Institute of Technology         
+Xinjiang Second Medical College         
+Xinjiang College of Science and Technology       
+Xinjiang Institute of Politics and Law       
+Xinjiang Tianshan Vocational and Technical University       
+Xinjiang Hetian University          
+Xinjiang Agricultural Vocational and Technical University       
+Xinjiang Industrial College          
+Xinjiang Vocational and Technical College of Communications      
+Xinjiang Polytechnic Vocational University         
+Xinxiang Engineering College          
+Xinyang College           
+Xuhai College of China University of Mining and Technology    
+Yan'an University           
+Yango University           
+Yangzhou Vocational and Technical University        
+Yanshan College of Shandong University of Finance and Economics    
+Yantai Institute of Technology         
+Yantai College of Science and Technology       
+Yellow River Conservatory Technical Institute        
+Yinchuan Energy College          
+Yinchuan College of Science and Technology       
+Yubei Medical College          
+Yueyang College           
+Yuncheng Vocational and Technical University        
+Yunnan University of Traditional Chinese Medicine       
+Yunnan Police College          
+Zhangjiajie College           
+Zhanjiang Science and Technology College        
+Zhaoqing Medical College          
+Zhejiang A&F University          
+Zhejiang Chinese Medical University         
+Zhejiang University of Water Resources and Electric Power     
+Zhejiang Police College          
+Zhejiang Guangsha Vocational and Technical University of Construction     
+Zhejiang College of Tongji University        
+Zhejiang College of Shanghai University of Finance and Economics    
+Zhejiang Pharmaceutical College          
+Zhejiang Vocational and Technical College of Mechanical and Electrical Technology   
+Zhengzhou Police College          
+Zhengzhou Institute of Science and Technology       
+Zhengzhou University of Finance and Economics       
+Zhengzhou University of Economics and Trade       
+Zhengzhou Business College          
+Zhengzhou Sias University          
+Zhengzhou Fine Arts College         
+Zhengzhou Health College          
+Zhijiang College of Zhejiang University of Technology      
+Zhixing College of Hubei University        
+Zhongbei College of Nanjing Normal University       
+Zhonghuan Information College of Tianjin University of Technology     
+Zhongrui Hospitality Management College of BISU       
+Zhongshan College of Dalian Medical University       
+Zhongshan College of University of Electronic Science and Technology of China  
+Zhongyuan Institute of Science and Technology       
+Zhuhai College of Science and Technology       
+Zhujiang College of Tianjin University of Finance and Economics    
+Zhujiang College of South China Agricultural University      
+Zibo Vocational and Technical University        
+Zijin College of Nanjing University of Science and Technology    
+Zunyi Normal University          
+Aba Teachers University          
+Anhui University           
+Anhui University of Technology         
+Anhui University of Science and Technology       
+Anhui Polytechnic University          
+Anhui Agricultural University          
+Anhui Medical University          
+Anhui Normal University          
+Anhui University of Finance and Economics       
+Anhui Jianzhu University          
+Anhui Science and Technology University        
+Anhui Sanlian University          
+Anhui Xinhua University          
+Anhui Institute of Information Technology        
+Ankang University           
+Anqing Normal University          
+Anshan Normal University          
+Anshun University           
+Anyang Normal University          
+Anyang Institute of Technology         
+Baicheng Normal University          
+Baise University           
+Baoding University           
+Baoji University of Arts and Sciences       
+Baoshan University           
+Beihai College of Art and Design       
+Beihang University           
+Beihua University           
+Beijing Jiaotong University          
+Beijing University of Technology         
+Beijing Institute of Technology         
+Beijing University of Chemical Technology        
+Beijing Technology and Business University        
+Beijing Institute of Fashion Technology        
+Beijing University of Posts and TeleCommunications       
+Beijing Institute of Graphic Communication        
+Beijing University of Civil Engineering and Architecture      
+Beijing Institute of Petrochemical Technology        
+Beijing Electronic Science and Technology Institute       
+Beijing University of AgriCulture         
+Beijing Forestry University          
+Beijing University of Chinese Medicine        
+Beijing Normal University          
+Beijing Foreign Studies University         
+Beijing International Studies University         
+Beijing Language and Culture University        
+Beijing Wuzi University          
+Beijing Sport University          
+Beijing Film Academy          
+Beijing Dance Academy          
+Beijing Information Science and Technology University       
+Beijing Union University          
+Beijing City University          
+Bengbu University           
+Binzhou Medical University          
+Bohai University           
+Bozhou University           
+Cangzhou Normal University          
+Capital Medical University          
+Capital Normal University          
+Capital University of Physical Education and Sports      
+Capital University of Economics and Business       
+Central University of Finance and Economics       
+Central Conservatory of Music         
+Central China Normal University         
+Central South University          
+Central South University of Forestry and Technology      
+Changchun University of Science and Technology       
+Changchun University of Technology         
+Changchun University of Chinese Medicine        
+Changchun Normal University          
+Changchun University           
+Changchun University of Finance and Economics       
+Changchun Architecture and Civil Engineering College       
+Changchun University of Science and Technology       
+Changji University           
+Changsha University of Science and Technology       
+Changsha Medical University          
+Changsha University           
+Changsha Normal University          
+Changshu Institute of Technology         
+Changzhi Medical College          
+Changzhi University           
+Changzhou University           
+Changzhou Institute of Technology         
+Chaohu University           
+Chengde Medical University          
+Chengdu University of Technology         
+Chengdu University of Information Technology        
+Chengdu Sport University          
+Chengdu University           
+Chengdu Neusoft University          
+Chengdu College of Arts and Sciences       
+Chengdu Medical College          
+Chengdu Normal University          
+Chifeng University           
+China Agricultural University          
+China Foreign Affairs University         
+China Conservatory of Music         
+China University of Political Science and Law      
+China University of Geosciences Beijing        
+China Youth University for Political Sciences       
+China University of Labor Relations        
+China Medical University          
+China University of Mining and Technology       
+China Pharmaceutical University          
+China Academy of Art         
+China Jiliang University          
+China University of Geosciences Wuhan        
+China West Normal University         
+Chizhou University           
+Chongqing University           
+Chongqing University of Posts and TeleCommunications       
+Chongqing Jiaotong University          
+Chongqing Medical University          
+Chongqing Normal University          
+Chongqing University of Arts and Sciences       
+Chongqing University of Science and Technology       
+Chongqing University of Technology         
+Chongqing Technology and Business University        
+Chongqing Institute of Engineering         
+Chongqing College of Humanities Science and Technology      
+Chuxiong Normal University          
+Chuzhou University           
+Civil Aviation University of China        
+Civil Aviation Flight University of China       
+Communication University of China         
+Communication University of Zhejiang         
+Dali University           
+Dalian University of Technology         
+Dalian Jiaotong University          
+Dalian Maritime University          
+Dalian Polytechnic University          
+Dalian Ocean University          
+Dalian Medical University          
+Dalian University of Foreign Languages        
+Dalian University           
+Dalian University of Finance and Economics       
+Dalian Art College          
+Dalian Neusoft University of Information        
+Daqing Normal University          
+Dezhou University           
+Dongbei University of Finance and Economics       
+Dongguan University of Technology         
+Donghua University           
+Duke Kunshan University          
+East China University of Science and Technology      
+East China Normal University         
+East China University of Political Science and Law     
+East China Jiaotong University         
+East China University of Technology        
+Eastern Liaoning University          
+Foshan University           
+Fudan University           
+Fujian University of Technology         
+Fujian AgriCulture and Forestry University        
+Fujian Medical University          
+Fujian Normal University          
+Fujian Business University          
+Fujian Jiangxia University          
+Fuyang Normal University          
+Fuzhou University           
+Fuzhou Institute of Technology         
+Gannan Medical University          
+Gannan Normal University          
+Gansu Agricultural University          
+Gansu Normal University for Nationalities        
+Gansu Medical College          
+Guangdong Ocean University          
+Guangdong Medical University          
+Guangdong Pharmaceutical University          
+Guangdong Polytechnic Normal University         
+Guangdong University of Finance and Economics       
+Guangdong Baiyun University          
+Guangdong University of Finance         
+Guangdong University of Technology         
+Guangdong University of Foreign Studies        
+Guangdong Peizheng College          
+Guangdong Polytechnic College          
+Guangdong Polytechnic Normal University         
+Guangxi University           
+Guangxi University of Science and Technology       
+Guangxi Medical University          
+Guangxi Normal University          
+Guangxi Normal University for Nationalities        
+Guangxi Arts University          
+Guangxi University for Nationalities         
+Guangxi Science and Technology Normal University       
+Guangxi University of Finance and Economics       
+Guangzhou Medical University          
+Guangzhou Sport University          
+Guangzhou Academy of Fine Arts        
+Guangzhou University           
+Guilin University of Electronic Technology        
+Guilin University of Technology         
+Guilin Medical University          
+Guilin University of Aerospace Technology        
+Guilin Tourism University          
+Guiyang University           
+Guizhou University           
+Guizhou Medical University          
+Guizhou Normal University          
+Guizhou University of Engineering Science        
+Guizhou University of Finance and Economics       
+Guizhou Minzu University          
+Guizhou University of Commerce         
+Guizhou Institute of Technology         
+Hainan University           
+Hainan Tropical Ocean University         
+Hainan Normal University          
+Hainan Medical University          
+Handan College           
+Hangzhou Dianzi University          
+Hangzhou Normal University          
+Hangzhou Medical College          
+Hanjiang Normal University          
+Hankou University           
+Hanshan Normal University          
+Harbin Institute of Technology         
+Harbin University of Science and Technology       
+Harbin Engineering University          
+Harbin Medical University          
+Harbin Normal University          
+Harbin University           
+Harbin University of Commerce         
+Harbin Institute of Physical Education        
+Harbin Finance University          
+Harbin Cambridge University          
+Harbin Huade University          
+Harbin Conservatory of Music         
+Hebei University           
+Hebei University of Engineering         
+Hebei GEO University          
+Hebei University of Technology         
+Hebei University of Science and Technology       
+Hebei University of Architecture         
+Hebei Medical University          
+Hebei North University          
+Hebei Normal University          
+Hebei Normal University for Nationalities        
+Hebei Normal University of Science and Technology      
+Hebei Institute of Physical Education        
+Hebei Finance University          
+Hebei University of Economics and Business       
+Hebei Academy of Fine Arts        
+Hebei Oriental University          
+Hebei University of Environmental Engineering        
+Hechi University           
+Hefei University of Technology         
+Hefei University           
+Hefei Normal University          
+Heihe University           
+Heilongjiang University           
+Heilongjiang University of Science and Technology       
+Heilongjiang Bayi Agricultural University         
+Heilongjiang Institute of Technology         
+Heilongjiang International University          
+Heilongjiang International University          
+Heilongjiang University of Finance and Economics       
+Henan Polytechnic University          
+Henan University of Technology         
+Henan University of Science and Technology       
+Henan Agricultural University          
+Henan Institute of Science and Technology       
+Henan University of Animal Husbandry and Economy      
+Henan University           
+Henan Normal University          
+Henan University of Economics and Law       
+Henan Institute of Engineering         
+Hengshui University           
+Hengyang Normal University          
+Hetao College           
+Hexi University           
+Heze University           
+Hezhou University           
+Hohai University           
+Honghe University           
+Huaibei Normal University          
+Huaibei Normal University          
+Huaihua University           
+Huainan Normal University          
+Huaiyin Normal University          
+Huaiyin Institute of Technology         
+Huanggang Normal University          
+Huanghe Science and Technology College        
+Huanghuai University           
+Huangshan University           
+Huaqiao University           
+Huazhong University of Science and Technology       
+Huazhong Agricultural University          
+Hubei University of Technology         
+Hubei University           
+Hubei Normal University          
+Hubei University for Nationalities         
+Hubei University of Arts and Science       
+Hubei Institute of Fine Arts        
+Hubei University of Automotive Technology        
+Hubei Engineering University          
+Hubei Polytechnic University          
+Hubei University of Science and Technology       
+Hubei University of Medicine         
+Hubei University of Economics         
+Hubei Business College          
+Huizhou University           
+Hulunbeier University           
+Hunan University           
+Hunan University of Science and Technology       
+Hunan Agricultural University          
+Hunan Normal University          
+Hunan Institute of Technology         
+Hunan University of Arts and Science       
+Hunan University of Science and Engineering       
+Hunan University of Humanities Science and Technology      
+Hunan Institute of Engineering         
+Hunan City University          
+Hunan Institute of Technology         
+Hunan University of Finance and Economics       
+Hunan University of Technology         
+Hunan Women's University          
+Hunan First Normal University         
+Hunan University of Medicine         
+Hunan International Economics University         
+Hunan Institute of Information Technology        
+Hunan Institute of Traffic Engineering        
+Huzhou University           
+Jiamusi University           
+Jianghan University           
+Jiangnan University           
+Jiangsu University of Science and Technology       
+Jiangsu University           
+Jiangsu Normal University          
+Jiangsu University of Technology         
+Jiangsu Second Normal University         
+Jiangxi University of Science and Technology       
+Jiangxi Agricultural University          
+Jiangxi Normal University          
+Jiangxi University of Finance and Economics       
+Jiangxi University of Technology         
+Jiangxi Science and Technology Normal University       
+Jiangxi Institute of Fashion Technology        
+Jiaxing University           
+Jiaying University           
+Jilin University           
+Jilin Jianzhu University          
+Jilin Institute of Chemical Technology        
+Jilin Agricultural University          
+Jilin Normal University          
+Jilin Engineering Normal University         
+Jilin University of Finance and Economics       
+Jilin Sport University          
+Jilin College of the Arts        
+Jilin Business and Technology College        
+Jilin Agricultural Science and Technology College       
+Jilin Animation Institute          
+Jimei University           
+Jinan University           
+Jingchu University of Technology         
+Jinggangshan University           
+Jining Normal University          
+Jining Medical University          
+Jining University           
+Jinling Institute of Technology         
+Jinzhong University           
+Jinzhou Medical University          
+Jishou University           
+Jiujiang University           
+Kaili University           
+Kunming University of Science and Technology       
+Kunming Medical University          
+Kunming University           
+Langfang Teachers University          
+Lanzhou University           
+Lanzhou University of Technology         
+Lanzhou Jiaotong University          
+Lanzhou City University          
+Lanzhou University of Finance and Economics       
+Lanzhou University of Arts and Science       
+Lanzhou Institute of Technology         
+Leshan Normal University          
+Liaocheng University           
+Liaoning University           
+Liaoning Technical University          
+Liaoning Shihua University          
+Liaoning University of Technology         
+Liaoning Normal University          
+Liaoning University of International Business and Economics      
+Liaoning Institute of Science and Technology       
+Liaoning Communication University          
+Lingnan Normal University          
+Linyi University           
+Lishui University           
+Liupanshui Normal University          
+Longdong University           
+Longyan University           
+Ludong University           
+Luoyang Normal University          
+LuXun Academy of Fine Arts        
+Minjiang University           
+Minnan Normal University          
+Minnan University of Science and Technology       
+Minzu University of China         
+Mudanjiang Medical University          
+Mudanjiang Normal University          
+Nanchang University           
+Nanchang Institute of Technology         
+Nanchang Institute of Technology         
+Nanchang Normal University          
+Nanjing University           
+Nanjing University of Aeronautics and Astronautics       
+Nanjing University of Science and Technology       
+Nanjing University of Posts and TeleCommunications       
+Nanjing Forestry University          
+Nanjing University of Information Science and Technology      
+Nanjing Agricultural University          
+Nanjing Medical University          
+Nanjing Normal University          
+Nanjing University of Finance and Economics       
+Nanjing Sport Institute          
+Nanjing University of the Arts        
+Nanjing Institute of Technology         
+Nanjing Audit University          
+Nanjing Xiaozhuang University          
+Nankai University           
+Nanning University           
+Nantong University           
+Nanyang Normal University          
+Nanyang Institute of Technology         
+Neijiang Normal University          
+Ningbo University of Technology         
+Ningbo University           
+Ningde Normal University          
+Ningxia University           
+Ningxia Medical University          
+Ningxia Normal University          
+Ningxia Institute of Science and Technology       
+North China University of Technology        
+North China Electric Power University        
+North China University of Science and Technology      
+North China Institute of Science and Technology      
+North China Institute of Aerospace Engineering       
+North University of China         
+North Sichuan Medical College         
+NorthEast Electric Power University         
+NorthEast Normal University          
+NorthEast Petroleum University          
+NorthEast Agricultural University          
+NorthEast Forestry University          
+Northeastern University           
+Northwest University           
+Northwest A&F University          
+Northwest Normal University          
+Northwestern Polytechnical University          
+Ocean University of China         
+Ordos Institute of Technology         
+Panzhihua University           
+Peking University           
+Peking Union Medical College         
+Pingdingshan University           
+Pingxiang University           
+Putian University           
+Qilu University of Technology         
+Qilu Institute of Technology         
+Qilu Normal University          
+Qingdao University of Science and Technology       
+Qingdao University of Technology         
+Qingdao Agricultural University          
+Qingdao Binhai University          
+Qingdao University           
+Qingdao Hengxing University of Science and Technology      
+Qingdao Huanghai University          
+Qinghai University           
+Qinghai Normal University          
+Qinghai University for Nationalities         
+Qiongtai Normal University          
+Qiqihar University           
+Qiqihar Institute of Engineering         
+Quanzhou Normal University          
+Quanzhou Institute of Information Engineering        
+Qufu Normal University          
+Qujing Normal University          
+Quzhou University           
+Renmin University of China         
+Sanjiang University           
+Sanming University           
+Sanya University           
+Shaanxi University of Science and Technology       
+Shaanxi Normal University          
+Shaanxi University of Technology         
+Shaanxi Institute of International Trade and Commerce      
+Shaanxi Fashion Engineering University         
+Shaanxi Xueqian Normal University         
+Shandong University           
+Shandong University of Science and Technology       
+Shandong Jianzhu University          
+Shandong University of Technology         
+Shandong Agricultural University          
+Shandong Normal University          
+Shandong University of Finance and Economics       
+Shandong Sport University          
+Shandong University of Arts         
+Shandong University of Art and Design       
+Shandong Jiaotong University          
+Shandong Women's University          
+Shandong Yingcai University          
+Shandong Xiehe University          
+Shandong Huayu University of Technology        
+Shandong University of Political Science and Law      
+Shandong Youth University of Political Science       
+Shandong AgriCulture and Engineering University        
+Shanghai Maritime University          
+Shanghai University of Electric Power        
+Shanghai Institute of Technology         
+Shanghai University of Medicine and Health Sciences      
+Shanghai Ocean University          
+Shanghai Normal University          
+Shanghai International Studies University         
+Shanghai University of Finance and Economics       
+Shanghai University of International Business and Economics      
+Shanghai University of Sport         
+Shanghai Conservatory of Music         
+Shanghai Theatre Academy          
+Shanghai University           
+Shanghai University of Engineering Science        
+Shanghai Lixin University of Accounting and Finance      
+Shanghai Dianji University          
+Shanghai University of Political Science and Law      
+Shanghai Second Polytechnic University         
+Shanghai Business School          
+Shanghai Jianqiao University          
+Shanghai Xingwei College          
+Shanghai Institute of Visual Art        
+Shanghai Tech University          
+Shangluo University           
+Shangqiu Normal University          
+Shangqiu Institute of Technology         
+Shangrao Normal University          
+Shantou University           
+Shanxi University           
+Shanxi Agricultural University          
+Shanxi Medical University          
+Shanxi Normal University          
+Shanxi Datong University          
+Shanxi University of Finance and Economics       
+Shaoguan University           
+Shaoxing University           
+Shaoyang University           
+Shenyang University of Technology         
+Shenyang Aerospace University          
+Shenyang Ligong University          
+Shenyang University of Chemical Technology        
+Shenyang Jianzhu University          
+Shenyang Agricultural University          
+Shenyang Pharmaceutical University          
+Shenyang Medical College          
+Shenyang Normal University          
+Shenyang Sport University          
+Shenyang Conservatory of Music         
+Shenyang University           
+Shenyang Institute of Engineering         
+Shenyang Institute of Technology         
+Shenyang Urban Construction University         
+Shenyang City University          
+Shenzhen University           
+Shenzhen MSU-BIT University          
+Shihezi University           
+Shijiazhuang University           
+Shijiazhuang Tiedao University          
+Shougang Institute of Technology         
+Sichuan International Studies University         
+Sichuan Fine Arts Institute         
+Sichuan University           
+Sichuan Agricultural University          
+Sichuan Normal University          
+Sichuan University of Arts and Science       
+Sichuan Conservatory of Music         
+Sichuan Tourism University          
+Sichuan University of Media and Communications       
+Sichuan Institute of Industrial Technology        
+Sichuan University of Culture and Arts       
+Sichuan Film and Television University        
+Soochow University           
+South China University of Technology        
+South China Agricultural University         
+South China Normal University         
+South-Central University for Nationalities         
+SouthEast University           
+Southern Medical University          
+Southwest University           
+Southwest University of Political Science and Law      
+Southwest Jiaotong University          
+Southwest Petroleum University          
+Southwest University of Science and Technology       
+Southwest Medical University          
+Southwest Forestry University          
+Southwestern University of Finance and Economics       
+Suihua University           
+Suqian College           
+Suzhou University of Science and Technology       
+Suzhou University           
+Taishan University           
+Taiyuan University of Science and Technology       
+Taiyuan University of Technology         
+Taiyuan Normal University          
+Taiyuan University           
+Taiyuan Institute of Technology         
+Taizhou University           
+Taizhou University           
+Tangshan Normal University          
+Tangshan College           
+Tarim University           
+Tianjin University           
+Tianjin University of Science and Technology       
+Tianjin Polytechnic University          
+Tianjin University of Technology         
+Tianjin Agricultural University          
+Tianjin Medical University          
+Tianjin Normal University          
+Tianjin Foreign Studies University         
+Tianjin University of Commerce         
+Tianjin University of Finance and Economics       
+Tianjin University of Sport         
+Tianjin Conservatory of Music         
+Tianjin Academy of Fine Arts        
+Tianjin Chengjian University          
+Tianshui Normal University          
+Tibet University           
+Tonghua Normal University          
+Tongji University           
+Tongling University           
+Tongren University           
+Tsinghua University           
+University of Science and Technology Beijing       
+University of International Business and Economics       
+University of International Relations         
+University of the Chinese Academy of Sciences      
+University of Science and Technology Liaoning       
+University of Shanghai for Science and Technology      
+University of Science and Technology of China      
+University of Jinan          
+University of South China         
+University of South China         
+University of Electronic Science and Technology of China     
+Wannan Medical College          
+Weifang University           
+Weifang University of Science and Technology       
+Weinan Normal University          
+Wenshan University           
+Wenzhou Medical University          
+Wenzhou University           
+Wenzhou Business College          
+West Anhui University          
+West Yunnan University of Applied Sciences       
+Wuchang Institute of Technology         
+Wuchang Institute of Technology         
+Wuhan University           
+Wuhan University of Science and Technology       
+Wuhan Institute of Technology         
+Wuhan Textile University          
+Wuhan Polytechnic University          
+Wuhan University of Technology         
+Wuhan Sports University          
+Wuhan Conservatory of Music         
+Wuhan Business University          
+Wuhan Donghu University          
+Wuhan Qingchuan University          
+Wuhan Technology and Business University        
+Wuhan College           
+Wuhan University of Engineering Science        
+Wuhan Institute of Design and Sciences       
+Wuyi University           
+Wuyi University           
+Wuzhou University           
+Xiamen University           
+Xiamen University of Technology         
+Xiamen Huaxia University          
+Xianyang Normal University          
+Xidian University           
+Xihua University           
+Xijing University           
+Xinghai Conservatory of Music         
+Xingtai University           
+Xingyi Normal University for Nationalities        
+Xinjiang University           
+Xinjiang Agricultural University          
+Xinjiang Medical University          
+Xinjiang University of Finance and Economics       
+Xinjiang Arts University          
+Xinjiang Institute of Engineering         
+Xinxiang University           
+Xinyang Normal University          
+Xinyang AgriCulture and Forestry University        
+Xinyu University           
+Xinzhou Teachers University          
+Xuchang University           
+Xuzhou Medical University          
+Xuzhou Institute of Technology         
+Yanbian University           
+Yancheng Institute of Technology         
+Yancheng Teachers University          
+Yang-En University           
+Yangtze University           
+Yangtze Normal University          
+Yangzhou University           
+Yanjing Institute of Technology         
+Yanshan University           
+Yantai University           
+Yantai Nanshan University          
+Yibin University           
+Yichun University           
+Yili Normal University          
+Yingkou Institute of Technology         
+Youjiang Medical University for Nationalities        
+Yulin Normal University          
+Yulin University           
+Yuncheng University           
+Yunnan University           
+Yunnan Agricultural University          
+Yunnan Normal University          
+Yunnan University of Finance and Economics       
+Yunnan Arts University          
+Yunnan Minzu University          
+Yunnan College of Business Management        
+Yunnan Technology and Business University        
+Yuxi Normal University          
+Yuzhang Normal University          
+Zaozhuang University           
+Zhangjiakou University           
+Zhaoqing University           
+Zhaotong University           
+Zhejiang University           
+Zhejiang University of Technology         
+Zhejiang Sci-Tech University          
+Zhejiang Ocean University          
+Zhejiang Normal University          
+Zhejiang Gongshang University          
+Zhejiang Wanli University          
+Zhejiang University of Science and Technology       
+Zhejiang University of Finance and Economics       
+Zhejiang Shuren University          
+Zhejiang Yuexiu University of Foreign Languages       
+Zhejiang International Studies University         
+Zhejiang Conservatory of Music         
+Zhengzhou University           
+Zhengzhou University of Light Industry        
+Zhengzhou University of Aeronautics         
+Zhengzhou Institute of Technology         
+Zhengzhou University of Industrial Technology        
+Zhengzhou Normal University          
+Zhengzhou Technology and Business University        
+Zhengzhou Shengda University of Economics Business and Management     
+Zhongkai University of AgriCulture and Engineering       
+Zhongnan University of Economics and Law       
+Zhongyuan University of Technology         
+Zhoukou Normal University          
+Zunyi Medical University          
